@@ -364,6 +364,6 @@ nohup time ./run.sh speedyone100yr_L2_23_RN_m6_rerun 016 2 SRoff23      100year4
 nohup time ./run.sh speedyone100yr_L2_23_RN_m8_rerun 018 2 SRoff23      100year4CO2 > output/speedyone100yr_L2_23_RN_m8_rerun.out &
 
 #...and the needed rst files for 10RN
-nohup time ./run.sh speedyone100yr_L2_10_RN_m5_rerun rst_10RN_m5 2 SRoff23      25year4CO2 > output/speedyone100yr_L2_10_RN_m5_rerun.out &
-nohup time ./run.sh speedyone100yr_L2_10_RN_m6_rerun rst_10RN_m6 2 SRoff23      25year4CO2 > output/speedyone100yr_L2_10_RN_m6_rerun.out &
-nohup time ./run.sh speedyone100yr_L2_10_RN_m8_rerun rst_10RN_m8 2 SRoff23      25year4CO2 > output/speedyone100yr_L2_10_RN_m8_rerun.out &
+nohup time ./run.sh speedyone100yr_L2_10_RN_m5_rerun rst_10RN_m5 2 SRoff10      25year4CO2 > output/speedyone100yr_L2_10_RN_m5_rerun.out &
+nohup time ./run.sh speedyone100yr_L2_10_RN_m6_rerun rst_10RN_m6 2 SRoff10      25year4CO2 > output/speedyone100yr_L2_10_RN_m6_rerun.out &
+nohup time ./run.sh speedyone100yr_L2_10_RN_m8_rerun rst_10RN_m8 2 SRoff10      25year4CO2 > output/speedyone100yr_L2_10_RN_m8_rerun.out &
