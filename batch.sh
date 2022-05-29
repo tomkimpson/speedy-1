@@ -347,11 +347,11 @@
 
 
 #Wasserstein runs. 10 years with stationary SST
-# nohup time ./run.sh speedyone10yr_L2_52_RN_m0_WD WDm0_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m0_WD.out &
-# nohup time ./run.sh speedyone10yr_L2_52_RN_m1_WD WDm1_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m1_WD.out &
-# nohup time ./run.sh speedyone10yr_L2_52_RN_m2_WD WDm2_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m2_WD.out &
-# nohup time ./run.sh speedyone10yr_L2_52_RN_m3_WD WDm3_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m3_WD.out &
-# nohup time ./run.sh speedyone10yr_L2_52_RN_m4_WD WDm4_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m4_WD.out &
+nohup time ./run.sh speedyone10yr_L2_52_RN_m0_WD WDm0_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m0_WD.out &
+nohup time ./run.sh speedyone10yr_L2_52_RN_m1_WD WDm1_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m1_WD.out &
+nohup time ./run.sh speedyone10yr_L2_52_RN_m2_WD WDm2_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m2_WD.out &
+nohup time ./run.sh speedyone10yr_L2_52_RN_m3_WD WDm3_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m3_WD.out &
+nohup time ./run.sh speedyone10yr_L2_52_RN_m4_WD WDm4_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m4_WD.out &
 # nohup time ./run.sh speedyone10yr_L2_52_RN_m5_WD WDm5_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m5_WD.out &
 # nohup time ./run.sh speedyone10yr_L2_52_RN_m6_WD WDm6_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m6_WD.out &
 # nohup time ./run.sh speedyone10yr_L2_52_RN_m7_WD WDm7_52RN 0 SRoff52      10year4CO2 > output/speedyone10yr_L2_52_RN_m7_WD.out &
@@ -370,8 +370,8 @@
 
 
 #Wasserstein runs
-nohup time ./run.sh speedyone10yr_L2_10_RN_m5_WD WDm5_10RN 0 SRoff10      10year4CO2 > output/speedyone10yr_L2_10_RN_m5_WD.out &
-nohup time ./run.sh speedyone10yr_L2_10_RN_m6_WD WDm6_10RN 0 SRoff10      10year4CO2 > output/speedyone10yr_L2_10_RN_m6_WD.out &
-nohup time ./run.sh speedyone10yr_L2_10_RN_m7_WD WDm7_10RN 0 SRoff10      10year4CO2 > output/speedyone10yr_L2_10_RN_m7_WD.out &
-nohup time ./run.sh speedyone10yr_L2_10_RN_m8_WD WDm8_10RN 0 SRoff10      10year4CO2 > output/speedyone10yr_L2_10_RN_m8_WD.out &
-nohup time ./run.sh speedyone10yr_L2_10_RN_m9_WD WDm9_10RN 0 SRoff10      10year4CO2 > output/speedyone10yr_L2_10_RN_m9_WD.out &
+# nohup time ./run.sh speedyone10yr_L2_10_RN_m5_WD WDm5_10RN 0 SRoff10      10year4CO2 > output/speedyone10yr_L2_10_RN_m5_WD.out &
+# nohup time ./run.sh speedyone10yr_L2_10_RN_m6_WD WDm6_10RN 0 SRoff10      10year4CO2 > output/speedyone10yr_L2_10_RN_m6_WD.out &
+# nohup time ./run.sh speedyone10yr_L2_10_RN_m7_WD WDm7_10RN 0 SRoff10      10year4CO2 > output/speedyone10yr_L2_10_RN_m7_WD.out &
+# nohup time ./run.sh speedyone10yr_L2_10_RN_m8_WD WDm8_10RN 0 SRoff10      10year4CO2 > output/speedyone10yr_L2_10_RN_m8_WD.out &
+# nohup time ./run.sh speedyone10yr_L2_10_RN_m9_WD WDm9_10RN 0 SRoff10      10year4CO2 > output/speedyone10yr_L2_10_RN_m9_WD.out &
