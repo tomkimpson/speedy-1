@@ -117,7 +117,7 @@ subroutine step(j1,j2,dt,alph,rob,wil)
     !call set_precision('rp_step')
 
     !next
-    !call set_precision('rp_stloop5')
+    call set_precision('rp_stloop5')
 
     if (j1==1) then
         eps = 0.0_dp
@@ -138,7 +138,7 @@ subroutine step(j1,j2,dt,alph,rob,wil)
         call timint(j1,dt,eps,wil,kx,tr(:,:,:,1,itr),trdt(:,:,:,itr))
     enddo
 
-    !call set_precision('rp_step')
+    call set_precision('rp_step')
 
 
 end subroutine step
