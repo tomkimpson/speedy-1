@@ -409,19 +409,19 @@
 
 
 #10RN + coupler
-nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m5 015 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m5.out &
-nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m6 016 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m6.out &
-nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m7 017 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m7.out &
-nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m8 018 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m8.out &
-nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m9 019 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m9.out &
+# nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m5 015 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m5.out &
+# nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m6 016 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m6.out &
+# nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m7 017 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m7.out &
+# nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m8 018 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m8.out &
+# nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m9 019 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m9.out &
 
 
 # #10RN + stloop5
-# nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m5 015 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m5.out &
-# nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m6 016 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m6.out &
-# nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m7 017 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m7.out &
-# nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m8 018 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m8.out &
-# nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m9 019 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m9.out &
+nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m5 015 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m5.out &
+nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m6 016 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m6.out &
+nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m7 017 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m7.out &
+nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m8 018 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m8.out &
+nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m9 019 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m9.out &
 
 
 
