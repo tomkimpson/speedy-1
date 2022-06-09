@@ -35,6 +35,7 @@ program agcm_main
             call set_precision('rp_coupler')
             call agcm_to_coupler(jday)            
             call coupler_to_agcm(jday)
+            call set_precision('rp_agcm')
 
 
         enddo
