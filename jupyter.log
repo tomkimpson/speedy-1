@@ -421,3 +421,606 @@ TypeError: object of type 'NoneType' has no len()
 [I 2022-06-13 17:08:23.435 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
 [I 2022-06-13 17:08:33.099 ServerApp] Kernel interrupted: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
 [I 2022-06-13 17:08:39.019 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-13 17:14:39.636 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-13 17:14:56.098 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:16:56.555 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:18:56.891 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:20:57.294 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:22:57.622 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:24:58.153 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:26:58.601 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:28:58.935 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:30:59.828 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:33:01.039 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:35:02.037 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:37:03.423 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:39:04.962 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:41:06.025 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:43:07.180 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:45:08.268 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:47:08.935 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:49:11.044 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:51:12.652 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:53:14.323 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:55:16.939 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:57:19.565 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 17:59:21.130 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:01:22.051 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:03:22.972 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:05:24.375 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:07:25.758 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:09:26.738 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:11:02.463 ServerApp] Kernel started: babec40f-135a-42c1-8757-5456a3cfceac
+[I 2022-06-13 18:11:27.091 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:13:27.517 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:15:28.104 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:17:28.695 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:19:29.277 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:21:29.864 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:23:30.466 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:25:31.070 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:27:31.659 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:29:32.209 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:31:32.799 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:33:33.389 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:35:33.970 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:37:34.561 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:39:35.151 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:41:35.736 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 18:41:40.801 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 18:41:40.810 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142095441 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 18:41:40.810 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 18:41:40.811 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 18:41:40.811 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142095441 (::1) 5245.12ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:43:35.641 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 18:43:40.706 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 18:43:40.714 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142215349 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 18:43:40.714 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 18:43:40.715 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 18:43:40.716 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142215349 (::1) 5244.93ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:45:35.748 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 18:45:40.815 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 18:45:40.824 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142335261 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 18:45:40.824 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 18:45:40.825 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 18:45:40.825 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142335261 (::1) 5437.80ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:47:35.573 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 18:47:40.638 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 18:47:40.646 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142455264 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 18:47:40.647 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 18:47:40.648 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 18:47:40.648 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142455264 (::1) 5251.58ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:49:35.584 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 18:49:40.649 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 18:49:40.657 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142575272 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 18:49:40.658 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 18:49:40.659 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 18:49:40.659 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142575272 (::1) 5282.15ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:51:35.585 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 18:51:40.649 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 18:51:40.658 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142695266 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 18:51:40.658 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 18:51:40.659 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 18:51:40.659 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142695266 (::1) 5245.58ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:53:35.564 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 18:53:40.630 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 18:53:40.638 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142815266 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 18:53:40.639 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 18:53:40.639 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 18:53:40.640 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142815266 (::1) 5245.83ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:55:35.660 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 18:55:40.725 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 18:55:40.734 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142935350 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 18:55:40.734 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 18:55:40.735 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 18:55:40.735 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142935350 (::1) 5245.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:57:35.577 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 18:57:40.641 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 18:57:40.650 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143055277 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 18:57:40.651 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 18:57:40.652 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 18:57:40.652 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143055277 (::1) 5245.51ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 18:59:35.853 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 18:59:40.920 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 18:59:40.928 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143175472 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 18:59:40.929 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 18:59:40.929 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 18:59:40.930 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143175472 (::1) 5250.40ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:01:35.969 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:01:41.034 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:01:41.043 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143295667 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:01:41.043 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:01:41.044 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:01:41.044 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143295667 (::1) 5246.11ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:03:36.188 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:03:41.254 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:03:41.262 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143415819 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:03:41.263 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:03:41.264 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:03:41.264 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143415819 (::1) 5312.05ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:06:25.254 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:06:30.319 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:06:30.327 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143584949 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:06:30.328 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:06:30.329 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:06:30.329 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143584949 (::1) 5246.98ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:08:25.595 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:08:30.662 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:08:30.670 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143705226 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:08:30.671 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:08:30.672 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:08:30.672 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143705226 (::1) 5311.49ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:11:24.824 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:11:29.889 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:11:29.897 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143884495 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:11:29.898 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:11:29.899 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:11:29.899 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143884495 (::1) 5270.20ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:13:25.306 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:13:30.371 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:13:30.380 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144005018 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:13:30.380 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:13:30.381 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:13:30.381 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144005018 (::1) 5248.51ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:16:25.039 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:16:30.105 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:16:30.113 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144184746 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:16:30.114 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:16:30.115 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:16:30.115 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144184746 (::1) 5256.64ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:19:25.518 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:19:30.584 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:19:30.593 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144365232 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:19:30.593 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:19:30.594 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:19:30.594 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144365232 (::1) 5248.70ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:22:25.221 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:22:30.287 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:22:30.295 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144544934 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:22:30.295 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:22:30.296 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:22:30.296 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144544934 (::1) 5248.80ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:24:25.574 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:24:30.640 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:24:30.648 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144665153 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:24:30.648 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:24:30.649 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:24:30.649 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144665153 (::1) 5377.14ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:27:25.129 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:27:30.197 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:27:30.205 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144844839 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:27:30.205 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:27:30.206 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:27:30.206 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144844839 (::1) 5251.14ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:30:25.484 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:30:30.550 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:30:30.558 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145025185 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:30:30.558 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:30:30.559 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:30:30.559 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145025185 (::1) 5294.97ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:33:25.185 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:33:30.252 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:33:30.260 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145204896 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:33:30.260 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:33:30.261 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:33:30.261 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145204896 (::1) 5249.75ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:36:35.119 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:36:40.188 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:36:40.196 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145394796 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:36:40.196 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:36:40.197 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:36:40.197 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145394796 (::1) 5250.92ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:39:31.816 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:39:36.883 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:39:36.891 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145571527 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:39:36.891 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:39:36.892 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:39:36.892 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145571527 (::1) 5247.55ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:42:25.259 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:42:30.327 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:42:30.336 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145744881 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:42:30.337 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:42:30.338 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:42:30.338 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145744881 (::1) 5318.35ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:45:08.412 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:45:13.478 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:45:13.486 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145908111 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:45:13.487 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:45:13.487 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:45:13.487 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145908111 (::1) 5248.21ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:47:08.315 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:47:13.381 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:47:13.390 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146028019 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:47:13.390 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:47:13.392 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:47:13.393 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146028019 (::1) 5248.30ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:49:08.507 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:49:13.575 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:49:13.583 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146148213 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:49:13.584 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:49:13.585 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:49:13.585 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146148213 (::1) 5249.91ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:51:08.428 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:51:13.495 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:51:13.504 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146268121 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:51:13.504 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:51:13.505 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:51:13.505 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146268121 (::1) 5285.27ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-13 19:53:08.611 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[E 2022-06-13 19:53:13.679 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-13 19:53:13.689 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146388043 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[W 2022-06-13 19:53:13.689 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[E 2022-06-13 19:53:13.690 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-13 19:53:13.690 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146388043 (::1) 5295.06ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
