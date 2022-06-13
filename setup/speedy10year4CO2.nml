@@ -96,7 +96,7 @@
     istart=1,
     ! Start date
     ! YYYY
-    iyear0=1983,
+    iyear0=1980,
     ! MM
     imonth0=1,
     ! DD
