@@ -275,3 +275,1127 @@
 [I 2022-06-14 10:10:47.843 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
 [I 2022-06-14 10:10:59.155 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
 [I 2022-06-14 10:12:10.963 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 12:32:28.631 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 12:34:33.638 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 12:40:31.873 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-14 13:32:44.081 ServerApp] Copying jupyter_notebooks/2.GlobalMap.ipynb to /jupyter_notebooks
+[I 2022-06-14 13:33:12.669 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:3dc0ded3-a4fc-496d-b17a-15adde42c047
+[I 2022-06-14 13:33:13.437 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:7fdf4e83-37b7-411e-9019-bf9d89d9a725
+[I 2022-06-14 13:33:13.448 ServerApp] Kernel started: f6d2ed52-7440-4378-9ed5-d917f03e7f9b
+[I 2022-06-14 13:33:14.761 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:dddd45fe-6be2-4741-9c40-4916de398cf4
+[I 2022-06-14 13:33:15.162 ServerApp] Starting buffering for e83b10e3-f0f4-4818-bf0f-af3f4520a3f3:bebc96ea-e2c3-450d-aa1a-cfed4019f671
+[I 2022-06-14 13:33:15.873 ServerApp] Starting buffering for db9d49e7-b2e4-4643-b27c-3fa1902eaaaf:9b4e4388-dcf6-4633-9085-270e0be1cd8e
+[I 2022-06-14 13:35:05.515 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:37:08.692 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:39:11.081 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:40:22.790 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:40:28.064 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:41:57.896 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:42:12.504 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:44:14.673 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:44:22.932 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:44:49.131 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:45:12.847 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:46:52.470 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:46:57.745 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:47:55.894 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:48:43.629 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:49:09.052 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:50:04.637 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:52:06.989 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:54:09.944 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:54:52.822 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:56:04.168 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:58:06.449 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 13:59:40.412 ServerApp] Kernel started: 6d665d7c-f556-4438-a1f9-d614a2533813
+[I 2022-06-14 14:00:08.840 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 14:02:11.341 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 14:04:14.127 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 14:06:16.777 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 14:08:19.416 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 14:10:22.161 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 14:12:24.760 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 14:16:28.731 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 14:18:33.880 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 14:50:59.382 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:01:44.334 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:18:32.708 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:18:37.795 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:18:37.804 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655216306531 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:18:37.805 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:18:37.806 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:18:37.807 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655216306531 (::1) 11065.47ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:21:31.000 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:21:36.091 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:21:36.107 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655216485370 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:21:36.108 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:21:36.109 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:21:36.109 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655216485370 (::1) 10529.26ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:23:30.988 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:23:36.071 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:23:36.088 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655216605685 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:23:36.089 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:23:36.090 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:23:36.090 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655216605685 (::1) 9971.60ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:25:30.734 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:25:35.818 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:25:35.834 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655216725761 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:25:35.834 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:25:35.835 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:25:35.836 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655216725761 (::1) 9797.38ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:28:31.007 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:28:36.093 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:28:36.109 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655216906049 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:28:36.110 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:28:36.111 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:28:36.112 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655216906049 (::1) 9813.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:30:32.437 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:30:37.520 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:30:37.537 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217026845 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:30:37.537 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:30:37.538 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:30:37.539 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217026845 (::1) 10456.84ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:33:32.863 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:33:37.955 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:33:37.970 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217206274 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:33:37.971 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:33:37.972 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:33:37.972 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217206274 (::1) 11531.69ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:35:33.051 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:35:38.139 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:35:38.156 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217327461 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:35:38.157 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:35:38.158 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:35:38.159 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217327461 (::1) 10530.28ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:38:30.882 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:38:35.972 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:38:35.988 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217505301 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:38:35.989 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:38:35.991 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:38:35.991 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217505301 (::1) 10512.19ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:40:32.426 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:40:37.516 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:40:37.532 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217625695 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:40:37.533 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:40:37.535 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:40:37.535 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217625695 (::1) 11662.82ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:42:34.899 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:42:39.990 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:42:40.006 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217748408 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:42:40.007 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:42:40.008 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:42:40.008 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217748408 (::1) 11436.14ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:44:35.340 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:44:40.433 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:44:40.451 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217868773 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:44:40.452 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:44:40.455 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:44:40.455 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217868773 (::1) 11458.09ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:46:34.178 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:46:39.266 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:46:39.283 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217989597 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:46:39.284 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:46:39.285 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:46:39.286 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655217989597 (::1) 9530.87ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:48:35.326 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:48:40.414 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:48:40.429 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218110815 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:48:40.430 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:48:40.431 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:48:40.432 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218110815 (::1) 9444.01ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:51:32.365 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:51:37.447 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:51:37.464 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218287681 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:51:37.465 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:51:37.466 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:51:37.467 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218287681 (::1) 9434.15ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:53:33.079 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:53:38.167 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:53:38.182 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218408589 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:53:38.183 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:53:38.185 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:53:38.185 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218408589 (::1) 9436.64ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:55:33.129 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:55:38.216 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:55:38.232 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218528639 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:55:38.233 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:55:38.234 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:55:38.235 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218528639 (::1) 9475.40ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 15:57:33.900 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 15:57:38.985 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 15:57:39.002 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218649402 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 15:57:39.003 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 15:57:39.004 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 15:57:39.004 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218649402 (::1) 9474.42ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:00:31.352 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:00:36.437 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:00:36.454 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218826694 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:00:36.455 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:00:36.457 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:00:36.458 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655218826694 (::1) 9445.93ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:03:29.991 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:03:35.079 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:03:35.097 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219005429 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:03:35.097 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:03:35.099 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:03:35.100 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219005429 (::1) 9444.29ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:05:30.815 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:05:35.903 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:05:35.918 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219126179 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:05:35.919 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:05:35.920 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:05:35.921 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219126179 (::1) 9564.91ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:07:30.850 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:07:35.942 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:07:35.959 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219246136 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:07:35.960 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:07:35.961 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:07:35.962 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219246136 (::1) 9526.21ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:10:30.159 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:10:35.241 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:10:35.257 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219425684 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:10:35.257 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:10:35.259 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:10:35.259 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219425684 (::1) 9436.46ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:10:41.103 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 2576, in get
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 872, in validate_absolute_path
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 2778, in validate_absolute_path
+    tornado.web.HTTPError: HTTP 404: Not Found
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 595, in write_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 525, in render_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 521, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: 404.html
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1217, in send_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 597, in write_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 525, in render_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 521, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: error.html
+[W 2022-06-14 16:10:41.161 ServerApp] 404 GET /static/favicons/favicon.ico (::1) 73.92ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:10:47.786 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 2576, in get
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 872, in validate_absolute_path
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 2778, in validate_absolute_path
+    tornado.web.HTTPError: HTTP 404: Not Found
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 595, in write_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 525, in render_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 521, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: 404.html
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1217, in send_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 597, in write_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 525, in render_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 521, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: error.html
+[W 2022-06-14 16:10:47.842 ServerApp] 404 GET /static/favicons/favicon-busy-1.ico (::1) 70.90ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:10:48.992 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 2576, in get
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 872, in validate_absolute_path
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 2778, in validate_absolute_path
+    tornado.web.HTTPError: HTTP 404: Not Found
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 595, in write_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 525, in render_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 521, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: 404.html
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1217, in send_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 597, in write_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 525, in render_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 521, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: error.html
+[W 2022-06-14 16:10:49.047 ServerApp] 404 GET /static/favicons/favicon-busy-1.ico (::1) 68.69ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:12:30.001 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:12:35.089 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:12:35.105 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219546319 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:12:35.106 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:12:35.107 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:12:35.107 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219546319 (::1) 8671.79ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:14:30.096 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:14:35.180 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:14:35.197 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219666630 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:14:35.198 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:14:35.200 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:14:35.201 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219666630 (::1) 8280.39ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:16:30.790 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:16:35.873 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:16:35.889 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219787493 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:16:35.890 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:16:35.891 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:16:35.892 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219787493 (::1) 8278.36ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:19:28.606 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:19:33.690 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:19:33.706 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219965313 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:19:33.707 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:19:33.709 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:19:33.710 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655219965313 (::1) 8279.02ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:21:28.631 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:21:33.711 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:21:33.727 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220085340 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:21:33.728 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:21:33.729 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:21:33.729 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220085340 (::1) 8311.19ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:24:28.606 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:24:33.682 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:24:33.698 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220265321 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:24:33.699 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:24:33.700 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:24:33.700 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220265321 (::1) 8270.76ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:26:28.634 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:26:33.710 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:26:33.726 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220385347 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:26:33.727 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:26:33.728 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:26:33.728 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220385347 (::1) 8308.59ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:29:29.526 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:29:34.608 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:29:34.624 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220566237 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:29:34.624 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:29:34.626 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:29:34.626 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220566237 (::1) 8278.20ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:32:28.719 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:32:33.807 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:32:33.824 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220745390 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:32:33.825 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:32:33.827 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:32:33.828 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220745390 (::1) 8365.59ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:34:28.726 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:34:33.806 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:34:33.823 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220865366 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:34:33.824 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:34:33.825 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:34:33.825 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655220865366 (::1) 8277.98ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:37:28.647 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:37:33.724 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:37:33.741 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221045286 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:37:33.741 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:37:33.742 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:37:33.743 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221045286 (::1) 8268.88ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:39:28.657 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:39:33.735 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:39:33.751 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221165260 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:39:33.752 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:39:33.753 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:39:33.753 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221165260 (::1) 8272.02ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:42:28.868 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:42:33.948 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:42:33.964 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221345287 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:42:33.965 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:42:33.966 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:42:33.966 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221345287 (::1) 8279.50ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:44:28.715 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:44:33.796 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:44:33.812 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221465275 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:44:33.813 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:44:33.814 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:44:33.814 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221465275 (::1) 8332.51ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:46:36.854 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:46:41.935 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:46:41.951 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221593487 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:46:41.951 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:46:41.953 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:46:41.954 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221593487 (::1) 8274.33ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:49:39.466 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:49:44.546 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:49:44.562 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221776091 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:49:44.563 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:49:44.564 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:49:44.565 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221776091 (::1) 8274.91ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:52:30.892 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:52:35.968 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:52:35.984 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221947510 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:52:35.985 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:52:35.986 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:52:35.986 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655221947510 (::1) 8316.26ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:54:44.188 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:54:49.267 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:54:49.284 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222078960 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:54:49.285 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:54:49.286 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:54:49.286 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222078960 (::1) 9161.14ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:56:51.447 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:56:56.525 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:56:56.541 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222207697 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:56:56.542 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:56:56.543 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:56:56.544 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222207697 (::1) 8683.85ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 16:59:37.325 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 16:59:42.410 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 16:59:42.427 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222373211 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 16:59:42.428 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 16:59:42.430 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 16:59:42.430 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222373211 (::1) 9017.98ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 17:01:42.173 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 17:01:47.256 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 17:01:47.272 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222498199 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 17:01:47.273 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 17:01:47.274 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 17:01:47.274 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222498199 (::1) 8908.03ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 17:03:49.043 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 17:03:54.121 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 17:03:54.135 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222625610 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 17:03:54.136 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 17:03:54.137 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 17:03:54.138 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222625610 (::1) 8323.45ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 17:06:48.638 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 17:06:53.717 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 17:06:53.726 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222805024 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 17:06:53.727 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 17:06:53.728 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 17:06:53.729 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222805024 (::1) 8388.86ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 17:08:48.528 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 17:08:53.612 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 17:08:53.622 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222925000 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 17:08:53.622 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 17:08:53.623 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 17:08:53.624 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655222925000 (::1) 8370.70ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 17:10:48.609 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 17:10:53.686 ServerApp] Error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
+    sqlite3.OperationalError: database is locked
+[W 2022-06-14 17:10:53.695 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655223045004 (::1): Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[W 2022-06-14 17:10:53.695 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb database is locked
+[E 2022-06-14 17:10:53.696 ServerApp] {
+      "Host": "localhost:8885",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 17:10:53.697 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb?1655223045004 (::1) 8520.44ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[E 2022-06-14 17:11:38.509 ServerApp] Uncaught exception GET /lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8885', method='GET', uri='/lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb', version='HTTP/1.1', remote_ip='::1')
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/extension/handler.py", line 15, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: index.html
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1702, in _execute
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 3173, in wrapper
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1878, in wrapper
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyterlab_server/handlers.py", line 158, in get
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 525, in render_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/extension/handler.py", line 17, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 521, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: index.html
+[E 2022-06-14 17:11:38.540 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/extension/handler.py", line 15, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: index.html
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1702, in _execute
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 3173, in wrapper
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1878, in wrapper
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyterlab_server/handlers.py", line 158, in get
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 525, in render_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/extension/handler.py", line 17, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 521, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: index.html
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/extension/handler.py", line 15, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: 500.html
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 595, in write_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 525, in render_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/extension/handler.py", line 17, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 521, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: 500.html
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/extension/handler.py", line 15, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: error.html
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1217, in send_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 597, in write_error
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 525, in render_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/extension/handler.py", line 17, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/base/handlers.py", line 521, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 997, in get_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/environment.py", line 958, in _load_template
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 125, in load
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jinja2/loaders.py", line 214, in get_source
+    jinja2.exceptions.TemplateNotFound: error.html
+[E 2022-06-14 17:11:38.605 LabApp] {
+      "Host": "localhost:8885",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+    }
+[E 2022-06-14 17:11:38.606 LabApp] 500 GET /lab/tree/jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb (::1) 122.52ms referer=None
+[I 2022-06-14 17:11:38.903 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:da1ec78e-eeff-4a40-bc29-36755d9c92a8
+[I 2022-06-14 17:11:38.905 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:d9da9fba-c10f-4acb-bfb6-a6f22257d58e
+[I 2022-06-14 17:11:38.907 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:be700d45-81d7-453a-b9cd-00f1aa531701
+[I 2022-06-14 17:11:38.908 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:03ff7ca9-6bd7-4de1-91e4-fcaef10e8eb8
+[I 2022-06-14 17:11:38.909 ServerApp] Starting buffering for f6d2ed52-7440-4378-9ed5-d917f03e7f9b:ccb2dae3-311d-4691-bb7a-175e3f014c21
+[I 2022-06-14 17:11:38.911 ServerApp] Starting buffering for 4dc1853a-044e-4c3a-a63f-0c24d583e060:cba1a7a1-db9a-429f-8d68-3f1cda627a9c
+[I 2022-06-14 17:12:05.125 ServerApp] 302 GET / (::1) 2.45ms
+[I 2022-06-14 17:12:15.416 LabApp] Build is up to date
+[I 2022-06-14 17:16:07.449 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 17:20:12.001 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 17:22:14.603 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 17:22:40.802 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-06-14 17:22:47.140 ServerApp] Copying jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb to /jupyter_notebooks/paper
+[I 2022-06-14 17:23:10.775 ServerApp] Kernel started: 0e60fa2d-c1b2-43f3-848f-589e858bad64
+[I 2022-06-14 17:23:14.710 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
