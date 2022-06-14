@@ -1175,3 +1175,22 @@ TypeError: object of type 'NoneType' has no len()
 [I 2022-06-14 08:42:21.208 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
 [I 2022-06-14 08:44:25.426 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
 [I 2022-06-14 08:46:05.999 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-14 08:48:21.482 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 08:50:24.546 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 08:50:29.759 ServerApp] Creating new directory in /jupyter_notebooks/paper
+[I 2022-06-14 08:52:10.915 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-14 08:52:29.563 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 08:55:04.819 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 08:56:24.136 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 08:58:25.742 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 09:00:27.385 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 09:02:03.557 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 09:04:05.256 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 09:04:55.095 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 09:06:14.191 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 09:08:17.115 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 09:08:32.558 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-14 09:10:21.040 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 09:10:36.303 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-14 09:12:01.746 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-14 09:14:05.996 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
