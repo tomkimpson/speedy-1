@@ -1,1196 +1,277 @@
-[I 2022-06-13 10:05:41.802 ServerApp] jupyterlab | extension was successfully linked.
-[I 2022-06-13 10:05:41.825 ServerApp] nbclassic | extension was successfully linked.
-[I 2022-06-13 10:05:45.203 ServerApp] notebook_shim | extension was successfully linked.
-[I 2022-06-13 10:05:45.203 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
-[I 2022-06-13 10:05:45.603 ServerApp] notebook_shim | extension was successfully loaded.
-[I 2022-06-13 10:05:45.605 LabApp] JupyterLab extension loaded from /home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyterlab
-[I 2022-06-13 10:05:45.606 LabApp] JupyterLab application directory is /home/k/kimpson/bin/conda/envs/workhorse/share/jupyter/lab
-[I 2022-06-13 10:05:45.618 ServerApp] jupyterlab | extension was successfully loaded.
-[I 2022-06-13 10:05:45.732 ServerApp] nbclassic | extension was successfully loaded.
-[I 2022-06-13 10:05:45.737 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
-[I 2022-06-13 10:05:45.738 ServerApp] Serving notebooks from local directory: /network/aopp/chaos/pred/kimpson/speedy-1
-[I 2022-06-13 10:05:45.738 ServerApp] Jupyter Server 1.15.6 is running at:
-[I 2022-06-13 10:05:45.738 ServerApp] http://localhost:9168/lab
-[I 2022-06-13 10:05:45.738 ServerApp]  or http://127.0.0.1:9168/lab
-[I 2022-06-13 10:05:45.738 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[I 2022-06-13 10:08:47.967 ServerApp] 302 GET / (::1) 1.20ms
-[I 2022-06-13 10:08:55.780 LabApp] Build is up to date
-[I 2022-06-13 10:09:04.569 ServerApp] Kernel started: 665e95e9-9a00-43a2-ad8b-3b97e2ba91c1
-[I 2022-06-13 10:09:04.572 ServerApp] Kernel started: cc1ddbf6-3111-45d3-ab13-316529459577
-[I 2022-06-13 10:09:04.572 ServerApp] Kernel started: 9348b8a3-e482-424f-9f0c-735584fde370
-[I 2022-06-13 10:09:04.576 ServerApp] Kernel started: d78a54fc-b9cc-4a8b-b05c-0548884240c5
-[I 2022-06-13 10:09:07.198 ServerApp] Starting buffering for d78a54fc-b9cc-4a8b-b05c-0548884240c5:3c132a31-7581-4bec-a816-bafe45da110f
-[I 2022-06-13 10:11:07.728 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:13:54.083 ServerApp] Copying jupyter_notebooks/1.Timeseries_ensemble-wm8.ipynb to /jupyter_notebooks
-[I 2022-06-13 10:14:08.499 ServerApp] Kernel started: da1c0797-3347-440e-8eb1-90131b7d1d77
-[I 2022-06-13 10:15:08.916 ServerApp] Starting buffering for 9348b8a3-e482-424f-9f0c-735584fde370:aedc45e7-9025-4c53-aeeb-520737e39002
-[I 2022-06-13 10:16:08.352 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 10:18:09.140 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 10:20:10.003 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 10:20:16.828 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 10:20:23.196 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 10:20:24.275 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 10:21:05.487 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 10:23:06.912 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 10:27:11.560 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:29:14.433 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:31:17.490 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:33:20.534 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:35:03.702 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-wm8.ipynb
-[I 2022-06-13 10:35:23.850 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:37:05.995 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-wm8.ipynb
-[I 2022-06-13 10:37:26.891 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:39:29.783 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:41:32.731 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:43:36.399 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:45:40.088 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:47:43.595 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:49:46.916 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:51:50.356 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:53:53.737 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:55:57.126 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 10:58:00.859 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:00:04.555 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:02:08.011 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:04:11.479 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:06:15.064 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:08:18.424 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:10:22.845 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:11:10.792 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 11:11:55.963 ServerApp] Kernel started: 0a408c42-0719-4783-8c0f-a69cffa4bca1
-[I 2022-06-13 11:14:26.840 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:16:31.942 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:18:35.486 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:20:40.255 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:22:44.545 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:24:48.934 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:26:52.571 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:28:56.298 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:31:03.372 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:33:10.031 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 11:35:14.501 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 12:16:11.386 ServerApp] Starting buffering for da1c0797-3347-440e-8eb1-90131b7d1d77:64de33ac-15b6-46c0-a48e-b095063ed6e5
-[I 2022-06-13 12:16:11.389 ServerApp] Starting buffering for cc1ddbf6-3111-45d3-ab13-316529459577:7c619350-2cd8-4915-8bea-4b9c1fbc2874
-[I 2022-06-13 12:16:11.390 ServerApp] Starting buffering for 665e95e9-9a00-43a2-ad8b-3b97e2ba91c1:82f6eed2-cdbf-469c-8061-942de9dcd7fc
-[I 2022-06-13 12:16:11.391 ServerApp] Starting buffering for 0a408c42-0719-4783-8c0f-a69cffa4bca1:39d947d5-d53b-4cf2-8f9f-3195948696dc
-[I 2022-06-13 12:16:11.392 ServerApp] Starting buffering for d78a54fc-b9cc-4a8b-b05c-0548884240c5:1e508ba3-9216-426c-8c94-3911f99ab9e4
-[I 2022-06-13 12:16:11.507 ServerApp] Restoring connection for da1c0797-3347-440e-8eb1-90131b7d1d77:64de33ac-15b6-46c0-a48e-b095063ed6e5
-[I 2022-06-13 12:16:11.563 ServerApp] Restoring connection for d78a54fc-b9cc-4a8b-b05c-0548884240c5:1e508ba3-9216-426c-8c94-3911f99ab9e4
-[I 2022-06-13 12:16:11.732 ServerApp] Restoring connection for 0a408c42-0719-4783-8c0f-a69cffa4bca1:39d947d5-d53b-4cf2-8f9f-3195948696dc
-[I 2022-06-13 12:16:11.812 ServerApp] Restoring connection for cc1ddbf6-3111-45d3-ab13-316529459577:7c619350-2cd8-4915-8bea-4b9c1fbc2874
-[I 2022-06-13 12:16:11.814 ServerApp] Restoring connection for 665e95e9-9a00-43a2-ad8b-3b97e2ba91c1:82f6eed2-cdbf-469c-8061-942de9dcd7fc
-[W 2022-06-13 12:17:41.508 ServerApp] WebSocket ping timeout after 90001 ms.
-[W 2022-06-13 12:17:41.564 ServerApp] WebSocket ping timeout after 90001 ms.
-[W 2022-06-13 12:17:41.733 ServerApp] WebSocket ping timeout after 90000 ms.
-[W 2022-06-13 12:17:41.738 ServerApp] WebSocket ping timeout after 90001 ms.
-[W 2022-06-13 12:17:41.814 ServerApp] WebSocket ping timeout after 90001 ms.
-[W 2022-06-13 12:17:41.814 ServerApp] WebSocket ping timeout after 90000 ms.
-[I 2022-06-13 12:17:46.511 ServerApp] Starting buffering for da1c0797-3347-440e-8eb1-90131b7d1d77:64de33ac-15b6-46c0-a48e-b095063ed6e5
-[I 2022-06-13 12:17:46.734 ServerApp] Starting buffering for 0a408c42-0719-4783-8c0f-a69cffa4bca1:39d947d5-d53b-4cf2-8f9f-3195948696dc
-[I 2022-06-13 12:17:46.740 ServerApp] Starting buffering for d78a54fc-b9cc-4a8b-b05c-0548884240c5:e4f0d362-763e-428d-b79b-7989ceb2c353
-[I 2022-06-13 12:17:46.815 ServerApp] Starting buffering for cc1ddbf6-3111-45d3-ab13-316529459577:7c619350-2cd8-4915-8bea-4b9c1fbc2874
-[I 2022-06-13 12:17:46.815 ServerApp] Starting buffering for 665e95e9-9a00-43a2-ad8b-3b97e2ba91c1:82f6eed2-cdbf-469c-8061-942de9dcd7fc
-[I 2022-06-13 12:53:52.937 ServerApp] Restoring connection for d78a54fc-b9cc-4a8b-b05c-0548884240c5:e4f0d362-763e-428d-b79b-7989ceb2c353
-[I 2022-06-13 12:53:53.960 ServerApp] Starting buffering for d78a54fc-b9cc-4a8b-b05c-0548884240c5:e4f0d362-763e-428d-b79b-7989ceb2c353
-[I 2022-06-13 12:54:03.672 LabApp] Build is up to date
-[I 2022-06-13 12:56:08.208 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 12:58:11.693 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:00:15.430 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:02:19.166 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:04:22.896 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:06:26.639 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:08:30.326 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:10:34.122 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:12:37.847 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:14:42.286 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:16:45.931 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:18:49.521 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:20:53.987 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:22:57.824 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:25:01.478 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:26:04.322 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 13:27:05.726 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:28:05.386 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 13:29:09.367 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:30:06.722 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 13:31:13.737 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:33:18.309 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:35:23.009 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:37:27.540 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:39:32.731 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:41:36.549 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:43:41.248 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:45:45.148 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:47:48.933 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:49:52.686 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:51:56.551 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:54:00.400 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 13:56:07.602 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 13:57:41.704 ServerApp] Starting buffering for 0a408c42-0719-4783-8c0f-a69cffa4bca1:9566231a-d0e9-4117-85df-28e098a6fb43
-[I 2022-06-13 13:58:08.518 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 13:59:09.179 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 14:01:10.084 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 14:02:02.538 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:02:54.495 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:04:05.810 ServerApp] Kernel interrupted: d78a54fc-b9cc-4a8b-b05c-0548884240c5
-[I 2022-06-13 14:04:05.990 ServerApp] Kernel interrupted: d78a54fc-b9cc-4a8b-b05c-0548884240c5
-[I 2022-06-13 14:04:06.144 ServerApp] Kernel interrupted: d78a54fc-b9cc-4a8b-b05c-0548884240c5
-[I 2022-06-13 14:04:06.309 ServerApp] Kernel interrupted: d78a54fc-b9cc-4a8b-b05c-0548884240c5
-[I 2022-06-13 14:04:19.637 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:04:28.031 ServerApp] Kernel interrupted: d78a54fc-b9cc-4a8b-b05c-0548884240c5
-[I 2022-06-13 14:04:28.411 ServerApp] Kernel interrupted: d78a54fc-b9cc-4a8b-b05c-0548884240c5
-[I 2022-06-13 14:04:28.818 ServerApp] Kernel interrupted: d78a54fc-b9cc-4a8b-b05c-0548884240c5
-[I 2022-06-13 14:04:28.834 ServerApp] Kernel interrupted: d78a54fc-b9cc-4a8b-b05c-0548884240c5
-[I 2022-06-13 14:06:22.141 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:18:23.165 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:18:48.656 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:20:51.140 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:22:54.431 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:23:10.873 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 14:24:56.925 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:25:11.602 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb
-[I 2022-06-13 14:26:59.654 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:29:02.694 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:31:06.045 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:33:08.757 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:35:11.437 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:37:14.131 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:39:16.831 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:41:19.521 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:43:22.191 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:45:24.891 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:47:27.565 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:49:30.286 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:51:32.960 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:55:35.376 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 14:56:55.019 ServerApp] Kernel started: 866ff731-88f0-4d5c-b354-d1cf987557d3
-[I 2022-06-13 14:57:39.476 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:00:56.343 ServerApp] Saving file at /jupyter_notebooks/2.GlobalMapPrecip.ipynb
-[I 2022-06-13 15:05:29.884 ServerApp] Kernel interrupted: 866ff731-88f0-4d5c-b354-d1cf987557d3
-[I 2022-06-13 15:05:30.196 ServerApp] Kernel interrupted: 866ff731-88f0-4d5c-b354-d1cf987557d3
-[I 2022-06-13 15:05:30.476 ServerApp] Kernel interrupted: 866ff731-88f0-4d5c-b354-d1cf987557d3
-[I 2022-06-13 15:05:30.550 ServerApp] Kernel interrupted: 866ff731-88f0-4d5c-b354-d1cf987557d3
-[IPKernelApp] ERROR | Exception in message handler:
-Traceback (most recent call last):
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 3457, in run_code
-    exec(code_obj, self.user_global_ns, self.user_ns)
-  File "/tmp/ipykernel_53445/762145844.py", line 99, in <module>
-    df_control = global_average(sorted(glob.glob(control_files)),                          'small_data/control_map_precip_weighted.pkl')
-  File "/tmp/ipykernel_53445/762145844.py", line 70, in global_average
-    df,use = process_nc_file(f,true_latitude,counter) #this is a df of the surface temperature for that file, averaged over time
-  File "/tmp/ipykernel_53445/762145844.py", line 23, in process_nc_file
-    ds = xr.open_dataset(f)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/xarray/backends/api.py", line 479, in open_dataset
-    engine = plugins.guess_engine(filename_or_obj)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/xarray/backends/plugins.py", line 114, in guess_engine
-    if backend.guess_can_open(store_spec):
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/xarray/backends/scipy_.py", line 245, in guess_can_open
-    magic_number = try_read_magic_number_from_file_or_path(filename_or_obj)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/xarray/core/utils.py", line 676, in try_read_magic_number_from_file_or_path
-    magic_number = try_read_magic_number_from_path(filename_or_obj, count)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/xarray/core/utils.py", line 667, in try_read_magic_number_from_path
-    return read_magic_number_from_file(f, count)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/xarray/core/utils.py", line 655, in read_magic_number_from_file
-    magic_number = filename_or_obj.read(count)  # type: ignore
-KeyboardInterrupt
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 2077, in showtraceback
-    stb = value._render_traceback_()
-AttributeError: 'KeyboardInterrupt' object has no attribute '_render_traceback_'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 3377, in run_ast_nodes
-    if (await self.run_code(code, result,  async_=asy)):
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 3474, in run_code
-    self.showtraceback(running_compiled_code=True)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 2080, in showtraceback
-    value, tb, tb_offset=tb_offset)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1368, in structured_traceback
-    self, etype, value, tb, tb_offset, number_of_lines_of_context)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1268, in structured_traceback
-    self, etype, value, tb, tb_offset, number_of_lines_of_context
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1125, in structured_traceback
-    tb_offset)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1082, in format_exception_as_a_whole
-    last_unique, recursion_repeat = find_recursion(orig_etype, evalue, records)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 382, in find_recursion
-    return len(records), 0
-TypeError: object of type 'NoneType' has no len()
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 2077, in showtraceback
-    stb = value._render_traceback_()
-AttributeError: 'TypeError' object has no attribute '_render_traceback_'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 2960, in _run_cell
-    return runner(coro)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/async_helpers.py", line 78, in _pseudo_sync_runner
-    coro.send(None)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 3186, in run_cell_async
-    interactivity=interactivity, compiler=compiler, result=result)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 3396, in run_ast_nodes
-    self.showtraceback()
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 2080, in showtraceback
-    value, tb, tb_offset=tb_offset)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1368, in structured_traceback
-    self, etype, value, tb, tb_offset, number_of_lines_of_context)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1268, in structured_traceback
-    self, etype, value, tb, tb_offset, number_of_lines_of_context
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1143, in structured_traceback
-    chained_exceptions_tb_offset)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1082, in format_exception_as_a_whole
-    last_unique, recursion_repeat = find_recursion(orig_etype, evalue, records)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 382, in find_recursion
-    return len(records), 0
-TypeError: object of type 'NoneType' has no len()
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 2077, in showtraceback
-    stb = value._render_traceback_()
-AttributeError: 'TypeError' object has no attribute '_render_traceback_'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/ipykernel/kernelbase.py", line 367, in dispatch_shell
-    await result
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/ipykernel/kernelbase.py", line 662, in execute_request
-    reply_content = await reply_content
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/ipykernel/ipkernel.py", line 360, in do_execute
-    res = shell.run_cell(code, store_history=store_history, silent=silent)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/ipykernel/zmqshell.py", line 532, in run_cell
-    return super().run_cell(*args, **kwargs)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 2915, in run_cell
-    raw_cell, store_history, silent, shell_futures)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 2965, in _run_cell
-    self.showtraceback(running_compiled_code=True)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/interactiveshell.py", line 2080, in showtraceback
-    value, tb, tb_offset=tb_offset)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1368, in structured_traceback
-    self, etype, value, tb, tb_offset, number_of_lines_of_context)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1268, in structured_traceback
-    self, etype, value, tb, tb_offset, number_of_lines_of_context
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1125, in structured_traceback
-    tb_offset)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 1082, in format_exception_as_a_whole
-    last_unique, recursion_repeat = find_recursion(orig_etype, evalue, records)
-  File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/IPython/core/ultratb.py", line 382, in find_recursion
-    return len(records), 0
-TypeError: object of type 'NoneType' has no len()
-[I 2022-06-13 15:07:00.408 ServerApp] Saving file at /jupyter_notebooks/2.GlobalMapPrecip.ipynb
-[I 2022-06-13 15:07:04.461 ServerApp] Creating new directory in /jupyter_notebooks
-[I 2022-06-13 15:07:26.194 ServerApp] Copying jupyter_notebooks/1.Timeseries_ensemble-precip.ipynb to /jupyter_notebooks
-[I 2022-06-13 15:07:46.885 ServerApp] Kernel started: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 15:07:46.923 ServerApp] Starting buffering for 665e95e9-9a00-43a2-ad8b-3b97e2ba91c1:d5eaf33b-ab56-44b2-81c0-bef1c3e2bebc
-[I 2022-06-13 15:07:47.819 ServerApp] Starting buffering for cc1ddbf6-3111-45d3-ab13-316529459577:fdab755b-aa0f-4e03-b455-354844b2b459
-[I 2022-06-13 15:07:48.064 ServerApp] Starting buffering for da1c0797-3347-440e-8eb1-90131b7d1d77:2bbac522-35e9-48f9-b051-e23236079282
-[I 2022-06-13 15:07:49.300 ServerApp] Starting buffering for d78a54fc-b9cc-4a8b-b05c-0548884240c5:b7c50aaa-a83e-43fc-a187-5aea529fd4ab
-[I 2022-06-13 15:09:46.931 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:12:51.460 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:14:55.909 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:15:47.682 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:17:00.054 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:17:31.754 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:18:48.879 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:19:04.402 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:20:49.675 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:21:08.581 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:22:50.485 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:22:55.376 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:23:12.902 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:24:28.318 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:24:32.058 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:24:35.768 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:25:17.090 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:26:36.243 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:26:36.975 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:27:21.432 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:27:21.991 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:27:48.471 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:29:25.623 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:29:49.231 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:31:29.948 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:31:50.204 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:33:34.210 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:33:50.963 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:35:36.544 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:35:51.913 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:37:10.754 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:37:13.708 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:37:38.636 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:39:14.581 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:39:40.665 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:40:52.338 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:41:42.938 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:42:44.992 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 15:42:45.379 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 15:42:45.483 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 15:42:45.600 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 15:42:45.744 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 15:42:46.037 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 15:42:46.053 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 15:42:53.149 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:42:56.525 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 15:42:56.630 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 15:42:56.919 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 15:43:45.199 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:44:39.734 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:45:49.902 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 15:45:51.755 ServerApp] Creating new directory in /jupyter_notebooks/paper
-[I 2022-06-13 15:46:40.500 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:47:52.239 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:48:21.009 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:50:21.745 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[W 2022-06-13 15:52:10.189 ServerApp] 400 GET /api/contents/jupyter_notebooks/paper/data/m5_precip_timeseries_unweighted.pkl?type=file&content=1&format=text&1655131930083 (::1): /network/aopp/chaos/pred/kimpson/speedy-1/jupyter_notebooks/paper/data/m5_precip_timeseries_unweighted.pkl is not UTF-8 encoded
-[W 2022-06-13 15:52:10.189 ServerApp] /network/aopp/chaos/pred/kimpson/speedy-1/jupyter_notebooks/paper/data/m5_precip_timeseries_unweighted.pkl is not UTF-8 encoded
-[W 2022-06-13 15:52:10.190 ServerApp] 400 GET /api/contents/jupyter_notebooks/paper/data/m5_precip_timeseries_unweighted.pkl?type=file&content=1&format=text&1655131930083 (::1) 4.38ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[W 2022-06-13 15:52:14.386 ServerApp] 400 GET /api/contents/jupyter_notebooks/paper/data/m5_precip_timeseries_unweighted.pkl?type=file&content=1&format=text&1655131934267 (::1): /network/aopp/chaos/pred/kimpson/speedy-1/jupyter_notebooks/paper/data/m5_precip_timeseries_unweighted.pkl is not UTF-8 encoded
-[W 2022-06-13 15:52:14.387 ServerApp] /network/aopp/chaos/pred/kimpson/speedy-1/jupyter_notebooks/paper/data/m5_precip_timeseries_unweighted.pkl is not UTF-8 encoded
-[W 2022-06-13 15:52:14.387 ServerApp] 400 GET /api/contents/jupyter_notebooks/paper/data/m5_precip_timeseries_unweighted.pkl?type=file&content=1&format=text&1655131934267 (::1) 3.97ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:52:22.479 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:54:23.514 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:56:23.940 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 15:58:24.174 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:00:24.529 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:02:24.798 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:04:25.081 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:06:25.509 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:07:56.283 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 16:08:25.827 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:10:26.179 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:12:26.770 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:14:27.361 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:16:27.943 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:18:28.526 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:20:00.504 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual_precipitation.ipynb
-[I 2022-06-13 16:20:29.112 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:22:29.699 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:24:30.287 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:26:30.875 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:28:31.484 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:30:32.055 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:32:32.654 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:34:33.275 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:36:33.815 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:38:34.400 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:40:34.998 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:42:35.577 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:44:36.175 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:46:36.805 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:48:37.335 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:50:37.927 ServerApp] Saving file at /jupyter_notebooks/paper/1.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:51:48.376 ServerApp] Copying jupyter_notebooks/1.Timeseries_ensemble-wm8.ipynb to /jupyter_notebooks
-[I 2022-06-13 16:52:25.406 ServerApp] Kernel started: 0d705f20-a1a1-4d7d-b263-f5ab0c70db6d
-[I 2022-06-13 16:52:38.511 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:54:39.617 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:56:40.178 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:58:40.774 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 16:59:05.806 ServerApp] Starting buffering for 0d705f20-a1a1-4d7d-b263-f5ab0c70db6d:69c53e6c-c8c5-4c26-8ab6-48cebb61dbf7
-[I 2022-06-13 16:59:13.629 ServerApp] Kernel shutdown: 0d705f20-a1a1-4d7d-b263-f5ab0c70db6d
-[W 2022-06-13 16:59:14.084 ServerApp] delete /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[W 2022-06-13 16:59:14.085 ServerApp] Skipping trash for /network/aopp/chaos/pred/kimpson/speedy-1/jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb, on different device to home directory
-[I 2022-06-13 16:59:17.502 ServerApp] Copying jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb to /jupyter_notebooks/paper
-[I 2022-06-13 17:00:31.421 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 17:00:32.232 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 17:00:32.268 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 17:00:41.152 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:00:55.555 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:00:55.750 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:01:01.643 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual.ipynb
-[I 2022-06-13 17:01:04.418 ServerApp] Starting buffering for 0a408c42-0719-4783-8c0f-a69cffa4bca1:98be3506-f183-4da0-8614-aa42edfe8e50
-[I 2022-06-13 17:01:06.867 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual.ipynb
-[I 2022-06-13 17:01:08.295 ServerApp] Saving file at /jupyter_notebooks/1.Timeseries_individual.ipynb
-[I 2022-06-13 17:01:08.723 ServerApp] Kernel started: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
-[I 2022-06-13 17:03:03.583 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 17:04:24.867 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 17:06:25.347 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 17:08:18.046 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 17:08:23.104 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 17:08:23.435 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 17:08:33.099 ServerApp] Kernel interrupted: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
-[I 2022-06-13 17:08:39.019 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 17:14:39.636 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 17:14:56.098 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:16:56.555 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:18:56.891 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:20:57.294 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:22:57.622 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:24:58.153 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:26:58.601 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:28:58.935 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:30:59.828 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:33:01.039 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:35:02.037 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:37:03.423 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:39:04.962 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:41:06.025 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:43:07.180 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:45:08.268 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:47:08.935 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:49:11.044 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:51:12.652 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:53:14.323 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:55:16.939 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:57:19.565 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 17:59:21.130 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:01:22.051 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:03:22.972 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:05:24.375 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:07:25.758 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:09:26.738 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:11:02.463 ServerApp] Kernel started: babec40f-135a-42c1-8757-5456a3cfceac
-[I 2022-06-13 18:11:27.091 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:13:27.517 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:15:28.104 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:17:28.695 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:19:29.277 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:21:29.864 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:23:30.466 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:25:31.070 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:27:31.659 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:29:32.209 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:31:32.799 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:33:33.389 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:35:33.970 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:37:34.561 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:39:35.151 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:41:35.736 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 18:41:40.801 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+[I 2022-06-14 09:36:16.796 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-06-14 09:36:16.827 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-06-14 09:36:22.623 ServerApp] notebook_shim | extension was successfully linked.
+[I 2022-06-14 09:36:22.624 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2022-06-14 09:36:22.941 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2022-06-14 09:36:22.944 LabApp] JupyterLab extension loaded from /home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyterlab
+[I 2022-06-14 09:36:22.944 LabApp] JupyterLab application directory is /home/k/kimpson/bin/conda/envs/workhorse/share/jupyter/lab
+[I 2022-06-14 09:36:22.958 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-06-14 09:36:23.042 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-06-14 09:36:23.048 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2022-06-14 09:36:23.050 ServerApp] Serving notebooks from local directory: /gf3/predict2/TIP020_KIMPSON_SPML4L/speedy-1
+[I 2022-06-14 09:36:23.050 ServerApp] Jupyter Server 1.15.6 is running at:
+[I 2022-06-14 09:36:23.051 ServerApp] http://localhost:9168/lab
+[I 2022-06-14 09:36:23.051 ServerApp]  or http://127.0.0.1:9168/lab
+[I 2022-06-14 09:36:23.051 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-06-14 09:36:23.312 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195783030 (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:23.313 ServerApp] Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:23.314 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195783030 (::1) 4.91ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:24.216 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:24.274 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1) 62.01ms referer=None
+[W 2022-06-14 09:36:24.363 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195784187 (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:24.363 ServerApp] Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:24.364 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195784187 (::1) 2.99ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:27.110 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195786787 (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:27.111 ServerApp] Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:27.112 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195786787 (::1) 3.39ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:27.131 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:27.133 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1) 6.25ms referer=None
+[W 2022-06-14 09:36:27.163 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195786989 (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:27.164 ServerApp] Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:27.164 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195786989 (::1) 2.11ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:28.181 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:28.183 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1) 6.91ms referer=None
+[W 2022-06-14 09:36:28.206 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195788032 (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:28.207 ServerApp] Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:28.208 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195788032 (::1) 2.81ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:29.270 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:29.273 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1) 6.44ms referer=None
+[W 2022-06-14 09:36:29.297 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195789122 (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:29.298 ServerApp] Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:29.299 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195789122 (::1) 2.85ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:31.725 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:31.728 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1) 6.26ms referer=None
+[W 2022-06-14 09:36:31.753 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195791578 (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:31.754 ServerApp] Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:31.755 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195791578 (::1) 2.39ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:31.994 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:31.996 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1) 5.46ms referer=None
+[W 2022-06-14 09:36:32.025 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195791848 (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:32.026 ServerApp] Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:32.027 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195791848 (::1) 3.63ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:34.469 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195794294 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:34.470 ServerApp] Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:34.471 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195794294 (::1) 3.30ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:35.148 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:35.151 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1) 6.11ms referer=None
+[W 2022-06-14 09:36:35.177 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195795000 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:35.178 ServerApp] Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:35.178 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195795000 (::1) 2.32ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:36.259 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195796083 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:36:36.260 ServerApp] Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:36:36.262 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195796083 (::1) 4.22ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:37.205 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:37.207 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1) 6.27ms referer=None
+[W 2022-06-14 09:36:37.233 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195797057 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:37.234 ServerApp] Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:37.235 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195797057 (::1) 2.95ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:37.265 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:36:37.267 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1) 5.45ms referer=None
+[W 2022-06-14 09:36:37.318 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195797139 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:36:37.318 ServerApp] Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:36:37.319 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195797139 (::1) 2.36ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:37.345 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:37.348 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1) 5.85ms referer=None
+[W 2022-06-14 09:36:37.597 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195797201 (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:37.598 ServerApp] Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:36:37.599 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195797201 (::1) 2.96ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:38.210 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:38.212 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1) 5.56ms referer=None
+[W 2022-06-14 09:36:38.238 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195798062 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:38.239 ServerApp] Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:38.239 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195798062 (::1) 2.31ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:39.159 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195798977 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:36:39.160 ServerApp] Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:36:39.161 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195798977 (::1) 3.99ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:39.364 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:39.367 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1) 5.84ms referer=None
+[W 2022-06-14 09:36:39.391 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195799216 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:39.392 ServerApp] Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:39.393 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195799216 (::1) 2.82ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:39.429 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:36:39.432 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1) 6.93ms referer=None
+[W 2022-06-14 09:36:39.456 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195799281 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:36:39.457 ServerApp] Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:36:39.458 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195799281 (::1) 3.15ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:41.201 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:36:41.204 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1) 13.21ms referer=None
+[W 2022-06-14 09:36:41.246 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195801068 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:36:41.246 ServerApp] Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:36:41.247 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195801068 (::1) 1.93ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:44.177 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195804002 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:36:44.178 ServerApp] Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:36:44.179 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195804002 (::1) 3.56ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:45.742 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:36:45.744 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1) 6.21ms referer=None
+[W 2022-06-14 09:36:45.996 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195805815 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:36:45.996 ServerApp] Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:36:45.997 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195805815 (::1) 3.01ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:46.022 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195805817 (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:36:46.023 ServerApp] Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:36:46.023 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195805817 (::1) 2.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:47.038 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:36:47.041 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1) 7.21ms referer=None
+[W 2022-06-14 09:36:47.067 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195806891 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:36:47.068 ServerApp] Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:36:47.069 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195806891 (::1) 3.24ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:49.152 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:49.155 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1) 5.97ms referer=None
+[W 2022-06-14 09:36:49.182 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195809005 (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:49.183 ServerApp] Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:36:49.183 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195809005 (::1) 2.54ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:49.719 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:36:49.721 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1) 5.47ms referer=None
+[W 2022-06-14 09:36:49.744 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195809570 (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:36:49.745 ServerApp] Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:36:49.745 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195809570 (::1) 2.36ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:50.453 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:36:50.455 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1) 5.67ms referer=None
+[W 2022-06-14 09:36:50.482 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195810304 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:36:50.483 ServerApp] Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:36:50.484 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195810304 (::1) 3.66ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:53.723 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:53.725 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1) 6.45ms referer=None
+[W 2022-06-14 09:36:53.752 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195813576 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:53.753 ServerApp] Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:36:53.753 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195813576 (::1) 2.95ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:54.514 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:36:54.516 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1) 6.00ms referer=None
+[W 2022-06-14 09:36:54.541 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195814365 (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:36:54.542 ServerApp] Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:36:54.543 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195814365 (::1) 2.96ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:54.786 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:36:54.788 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1) 6.09ms referer=None
+[W 2022-06-14 09:36:54.817 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195814637 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:36:54.818 ServerApp] Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:36:54.819 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195814637 (::1) 2.94ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:55.442 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:36:55.444 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1) 5.53ms referer=None
+[W 2022-06-14 09:36:55.467 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195815293 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:36:55.468 ServerApp] Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:36:55.469 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195815293 (::1) 2.57ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:36:59.791 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:36:59.796 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1) 9.14ms referer=None
+[W 2022-06-14 09:36:59.823 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195819645 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:36:59.824 ServerApp] Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:36:59.825 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195819645 (::1) 3.38ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:00.250 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:37:00.252 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1) 5.58ms referer=None
+[W 2022-06-14 09:37:00.275 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195820101 (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:37:00.276 ServerApp] Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:37:00.277 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195820101 (::1) 2.51ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:01.079 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:37:01.081 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1) 5.53ms referer=None
+[W 2022-06-14 09:37:01.105 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195820930 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:37:01.105 ServerApp] Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:37:01.106 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195820930 (::1) 2.34ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:05.344 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:37:05.347 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1) 6.63ms referer=None
+[W 2022-06-14 09:37:05.370 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195825195 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:37:05.370 ServerApp] Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:37:05.371 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195825195 (::1) 2.41ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:05.402 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:37:05.404 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1) 5.86ms referer=None
+[W 2022-06-14 09:37:05.432 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195825253 (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:37:05.432 ServerApp] Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:37:05.433 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195825253 (::1) 2.99ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:09.465 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:37:09.468 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3/channels?session_id=1df673bb-5d78-4553-8bb4-2d1b0345ad62 (::1) 6.60ms referer=None
+[W 2022-06-14 09:37:09.491 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195829316 (::1): Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:37:09.491 ServerApp] Kernel does not exist: 866ff731-88f0-4d5c-b354-d1cf987557d3
+[W 2022-06-14 09:37:09.492 ServerApp] 404 GET /api/kernels/866ff731-88f0-4d5c-b354-d1cf987557d3?1655195829316 (::1) 2.27ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:10.132 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:37:10.135 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1) 6.43ms referer=None
+[W 2022-06-14 09:37:10.169 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195829992 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:37:10.169 ServerApp] Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:37:10.170 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195829992 (::1) 3.12ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:11.761 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:37:11.764 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1) 6.21ms referer=None
+[W 2022-06-14 09:37:11.791 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195831613 (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:37:11.791 ServerApp] Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:37:11.792 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195831613 (::1) 2.56ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:13.482 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:37:13.484 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1) 5.97ms referer=None
+[W 2022-06-14 09:37:13.509 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195833333 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:37:13.510 ServerApp] Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:37:13.511 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195833333 (::1) 2.95ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:18.264 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:37:18.267 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1) 6.85ms referer=None
+[W 2022-06-14 09:37:18.496 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195838320 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:37:18.497 ServerApp] Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:37:18.498 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195838320 (::1) 3.56ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:18.904 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:37:18.906 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1) 6.13ms referer=None
+[W 2022-06-14 09:37:18.930 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195838755 (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:37:18.931 ServerApp] Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:37:18.931 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195838755 (::1) 2.36ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:34.332 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:37:34.337 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1) 8.07ms referer=None
+[W 2022-06-14 09:37:34.379 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195854203 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:37:34.379 ServerApp] Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:37:34.380 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195854203 (::1) 3.01ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:40.531 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:37:40.534 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370/channels?session_id=57d39b8f-e8f4-4926-b2e2-9d272139c8b5 (::1) 7.27ms referer=None
+[W 2022-06-14 09:37:40.559 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195860382 (::1): Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:37:40.560 ServerApp] Kernel does not exist: 9348b8a3-e482-424f-9f0c-735584fde370
+[W 2022-06-14 09:37:40.561 ServerApp] 404 GET /api/kernels/9348b8a3-e482-424f-9f0c-735584fde370?1655195860382 (::1) 3.06ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:45.353 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:37:45.355 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1) 6.18ms referer=None
+[W 2022-06-14 09:37:45.390 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195865214 (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:37:45.391 ServerApp] Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:37:45.391 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195865214 (::1) 2.30ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:53.506 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:37:53.509 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5/channels?session_id=656fd1e3-868d-4a92-8062-60eb8624fa7b (::1) 6.66ms referer=None
+[W 2022-06-14 09:37:53.534 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195873356 (::1): Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:37:53.534 ServerApp] Kernel does not exist: d78a54fc-b9cc-4a8b-b05c-0548884240c5
+[W 2022-06-14 09:37:53.535 ServerApp] 404 GET /api/kernels/d78a54fc-b9cc-4a8b-b05c-0548884240c5?1655195873356 (::1) 3.01ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:37:58.754 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:37:58.756 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1/channels?session_id=d3482239-6978-4838-b5a2-f843d4c5f607 (::1) 6.36ms referer=None
+[W 2022-06-14 09:37:58.780 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195878603 (::1): Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:37:58.781 ServerApp] Kernel does not exist: 0a408c42-0719-4783-8c0f-a69cffa4bca1
+[W 2022-06-14 09:37:58.782 ServerApp] 404 GET /api/kernels/0a408c42-0719-4783-8c0f-a69cffa4bca1?1655195878603 (::1) 2.79ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:38:07.797 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:38:07.802 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894/channels?session_id=5a7b8783-a5b3-4dfb-a9d4-c4bcffba341a (::1) 9.75ms referer=None
+[W 2022-06-14 09:38:07.830 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195887649 (::1): Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:38:07.831 ServerApp] Kernel does not exist: aa43cd0c-abf8-4204-a364-b72d795cd894
+[W 2022-06-14 09:38:07.832 ServerApp] 404 GET /api/kernels/aa43cd0c-abf8-4204-a364-b72d795cd894?1655195887649 (::1) 3.06ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:38:09.392 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:38:09.395 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac/channels?session_id=c5d6e77e-cf84-4d48-a922-a2fc7fd8f4a6 (::1) 6.21ms referer=None
+[W 2022-06-14 09:38:09.432 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195889255 (::1): Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:38:09.433 ServerApp] Kernel does not exist: babec40f-135a-42c1-8757-5456a3cfceac
+[W 2022-06-14 09:38:09.433 ServerApp] 404 GET /api/kernels/babec40f-135a-42c1-8757-5456a3cfceac?1655195889255 (::1) 2.35ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[W 2022-06-14 09:38:19.333 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:38:19.335 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0/channels?session_id=a6d5de86-ad1e-4b3b-8dab-448f3270469a (::1) 6.35ms referer=None
+[W 2022-06-14 09:38:19.364 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195899184 (::1): Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:38:19.365 ServerApp] Kernel does not exist: feaa8cff-0254-4778-b8fd-76a5cbbbd6f0
+[W 2022-06-14 09:38:19.365 ServerApp] 404 GET /api/kernels/feaa8cff-0254-4778-b8fd-76a5cbbbd6f0?1655195899184 (::1) 2.95ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-14 10:04:38.875 LabApp] Build is up to date
+[E 2022-06-14 10:04:40.260 ServerApp] Uncaught exception GET /lab/api/settings/@jupyterlab/csvviewer-extension:tsv?1655197477663 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8885', method='GET', uri='/lab/api/settings/@jupyterlab/csvviewer-extension:tsv?1655197477663', version='HTTP/1.1', remote_ip='::1')
     Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 18:41:40.810 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142095441 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 18:41:40.810 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 18:41:40.811 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 18:41:40.811 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142095441 (::1) 5245.12ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:43:35.641 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 18:43:40.706 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+    tornado.iostream.StreamClosedError: Stream is closed
+[E 2022-06-14 10:04:40.362 ServerApp] Uncaught exception GET /lab/api/settings/@jupyterlab/csvviewer-extension:csv?1655197477663 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8885', method='GET', uri='/lab/api/settings/@jupyterlab/csvviewer-extension:csv?1655197477663', version='HTTP/1.1', remote_ip='::1')
     Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 18:43:40.714 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142215349 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 18:43:40.714 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 18:43:40.715 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 18:43:40.716 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142215349 (::1) 5244.93ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:45:35.748 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 18:45:40.815 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+    tornado.iostream.StreamClosedError: Stream is closed
+[E 2022-06-14 10:04:46.657 ServerApp] Uncaught exception GET /lab/api/settings?1655197486317 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8885', method='GET', uri='/lab/api/settings?1655197486317', version='HTTP/1.1', remote_ip='::1')
     Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 18:45:40.824 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142335261 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 18:45:40.824 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 18:45:40.825 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 18:45:40.825 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142335261 (::1) 5437.80ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:47:35.573 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 18:47:40.638 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 18:47:40.646 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142455264 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 18:47:40.647 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 18:47:40.648 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 18:47:40.648 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142455264 (::1) 5251.58ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:49:35.584 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 18:49:40.649 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 18:49:40.657 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142575272 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 18:49:40.658 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 18:49:40.659 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 18:49:40.659 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142575272 (::1) 5282.15ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:51:35.585 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 18:51:40.649 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 18:51:40.658 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142695266 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 18:51:40.658 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 18:51:40.659 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 18:51:40.659 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142695266 (::1) 5245.58ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:53:35.564 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 18:53:40.630 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 18:53:40.638 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142815266 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 18:53:40.639 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 18:53:40.639 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 18:53:40.640 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142815266 (::1) 5245.83ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:55:35.660 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 18:55:40.725 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 18:55:40.734 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142935350 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 18:55:40.734 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 18:55:40.735 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 18:55:40.735 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655142935350 (::1) 5245.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:57:35.577 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 18:57:40.641 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 18:57:40.650 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143055277 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 18:57:40.651 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 18:57:40.652 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 18:57:40.652 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143055277 (::1) 5245.51ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 18:59:35.853 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 18:59:40.920 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 18:59:40.928 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143175472 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 18:59:40.929 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 18:59:40.929 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 18:59:40.930 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143175472 (::1) 5250.40ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:01:35.969 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:01:41.034 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:01:41.043 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143295667 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:01:41.043 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:01:41.044 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:01:41.044 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143295667 (::1) 5246.11ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:03:36.188 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:03:41.254 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:03:41.262 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143415819 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:03:41.263 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:03:41.264 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:03:41.264 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143415819 (::1) 5312.05ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:06:25.254 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:06:30.319 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:06:30.327 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143584949 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:06:30.328 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:06:30.329 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:06:30.329 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143584949 (::1) 5246.98ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:08:25.595 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:08:30.662 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:08:30.670 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143705226 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:08:30.671 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:08:30.672 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:08:30.672 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143705226 (::1) 5311.49ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:11:24.824 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:11:29.889 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:11:29.897 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143884495 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:11:29.898 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:11:29.899 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:11:29.899 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655143884495 (::1) 5270.20ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:13:25.306 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:13:30.371 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:13:30.380 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144005018 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:13:30.380 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:13:30.381 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:13:30.381 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144005018 (::1) 5248.51ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:16:25.039 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:16:30.105 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:16:30.113 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144184746 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:16:30.114 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:16:30.115 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:16:30.115 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144184746 (::1) 5256.64ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:19:25.518 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:19:30.584 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:19:30.593 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144365232 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:19:30.593 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:19:30.594 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:19:30.594 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144365232 (::1) 5248.70ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:22:25.221 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:22:30.287 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:22:30.295 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144544934 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:22:30.295 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:22:30.296 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:22:30.296 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144544934 (::1) 5248.80ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:24:25.574 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:24:30.640 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:24:30.648 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144665153 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:24:30.648 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:24:30.649 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:24:30.649 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144665153 (::1) 5377.14ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:27:25.129 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:27:30.197 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:27:30.205 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144844839 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:27:30.205 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:27:30.206 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:27:30.206 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655144844839 (::1) 5251.14ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:30:25.484 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:30:30.550 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:30:30.558 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145025185 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:30:30.558 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:30:30.559 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:30:30.559 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145025185 (::1) 5294.97ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:33:25.185 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:33:30.252 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:33:30.260 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145204896 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:33:30.260 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:33:30.261 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:33:30.261 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145204896 (::1) 5249.75ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:36:35.119 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:36:40.188 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:36:40.196 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145394796 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:36:40.196 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:36:40.197 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:36:40.197 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145394796 (::1) 5250.92ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:39:31.816 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:39:36.883 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:39:36.891 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145571527 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:39:36.891 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:39:36.892 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:39:36.892 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145571527 (::1) 5247.55ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:42:25.259 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:42:30.327 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:42:30.336 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145744881 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:42:30.337 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:42:30.338 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:42:30.338 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145744881 (::1) 5318.35ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:45:08.412 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:45:13.478 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:45:13.486 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145908111 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:45:13.487 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:45:13.487 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:45:13.487 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655145908111 (::1) 5248.21ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:47:08.315 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:47:13.381 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:47:13.390 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146028019 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:47:13.390 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:47:13.392 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:47:13.393 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146028019 (::1) 5248.30ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:49:08.507 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:49:13.575 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:49:13.583 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146148213 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:49:13.584 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:49:13.585 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:49:13.585 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146148213 (::1) 5249.91ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:51:08.428 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:51:13.495 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:51:13.504 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146268121 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:51:13.504 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:51:13.505 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:51:13.505 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146268121 (::1) 5285.27ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:53:08.611 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[E 2022-06-13 19:53:13.679 ServerApp] Error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-    Traceback (most recent call last):
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/filemanager.py", line 427, in save
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/jupyter_server/services/contents/manager.py", line 644, in check_and_sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 482, in sign
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 224, in store_signature
-      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/nbformat/sign.py", line 255, in check_signature
-    sqlite3.OperationalError: database is locked
-[W 2022-06-13 19:53:13.689 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146388043 (::1): Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[W 2022-06-13 19:53:13.689 ServerApp] Unexpected error while saving file: jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb database is locked
-[E 2022-06-13 19:53:13.690 ServerApp] {
-      "Host": "localhost:8885",
-      "Accept": "*/*",
-      "Referer": "http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
-    }
-[E 2022-06-13 19:53:13.690 ServerApp] 500 PUT /api/contents/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb?1655146388043 (::1) 5295.06ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:55:08.422 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:57:08.790 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 19:59:09.345 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:01:09.931 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:03:11.135 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:05:12.281 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:07:13.779 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:09:15.683 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:11:17.317 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:12:59.033 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 20:13:18.291 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:15:19.640 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:17:20.740 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:18:47.893 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:19:11.311 ServerApp] Kernel interrupted: aa43cd0c-abf8-4204-a364-b72d795cd894
-[I 2022-06-13 20:20:49.085 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:20:51.738 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 20:22:51.080 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:24:55.355 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:26:57.136 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:29:00.200 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:31:03.565 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:33:06.776 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:35:10.431 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:37:12.002 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:39:14.615 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:41:16.711 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:43:20.062 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:45:22.085 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:47:24.067 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:49:26.712 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:51:30.705 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:53:32.710 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:55:34.675 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:57:36.975 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 20:59:39.351 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:01:41.086 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:03:43.035 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:05:45.329 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:07:46.989 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:09:49.999 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:11:51.823 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:13:53.943 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:15:56.640 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:18:00.128 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:20:02.105 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:22:03.748 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:24:05.753 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:26:08.047 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:28:09.753 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:30:13.494 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:32:15.246 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:34:17.843 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:36:19.770 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:38:22.414 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:40:23.865 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:42:25.835 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:44:29.154 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:46:30.823 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:48:33.358 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:50:35.401 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:52:37.021 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:54:38.863 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:56:41.731 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 21:58:44.036 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:00:45.027 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:02:46.351 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:04:47.548 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:06:20.881 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:06:48.774 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:08:21.438 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:08:49.914 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:10:21.978 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:10:51.336 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:12:22.524 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:12:52.394 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:14:22.855 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:14:53.625 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:16:23.374 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:16:54.854 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:18:23.775 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:18:56.278 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:20:24.222 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:20:57.528 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:22:24.647 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:22:58.743 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:24:25.248 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:24:59.850 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:26:25.822 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:27:01.277 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:28:26.413 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:29:02.511 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:30:26.990 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:31:03.722 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:32:27.573 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:33:05.159 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:34:28.170 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:35:06.365 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:36:28.749 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:37:07.574 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:38:29.336 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:39:08.989 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:40:29.923 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:41:10.220 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:42:30.526 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:43:11.485 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:44:31.140 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:45:12.884 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:46:31.707 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:47:14.117 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:48:32.269 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:49:15.525 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:50:32.860 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:51:16.769 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:52:33.453 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:53:18.022 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:54:34.063 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:55:19.412 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:56:34.615 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 22:57:20.642 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-13 22:58:35.215 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:00:35.808 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:02:36.384 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:04:36.973 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:06:37.551 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:08:38.156 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:10:38.726 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:12:39.338 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:14:39.902 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:16:40.482 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:18:41.067 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:20:41.656 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:22:42.240 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:24:42.987 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:26:43.426 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:28:44.032 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:30:44.607 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-13 23:32:45.180 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 07:48:15.770 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 07:49:23.780 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 08:32:17.261 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 08:33:25.724 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 08:34:18.821 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 08:35:26.587 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 08:36:18.821 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 08:37:24.222 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 08:39:24.838 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 08:40:18.102 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 08:42:21.208 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 08:44:25.426 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 08:46:05.999 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 08:48:21.482 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 08:50:24.546 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 08:50:29.759 ServerApp] Creating new directory in /jupyter_notebooks/paper
-[I 2022-06-14 08:52:10.915 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 08:52:29.563 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 08:55:04.819 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 08:56:24.136 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 08:58:25.742 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 09:00:27.385 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 09:02:03.557 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 09:04:05.256 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 09:04:55.095 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 09:06:14.191 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 09:08:17.115 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 09:08:32.558 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 09:10:21.040 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
-[I 2022-06-14 09:10:36.303 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 09:12:01.746 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
-[I 2022-06-14 09:14:05.996 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+      File "/home/k/kimpson/bin/conda/envs/workhorse/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+    tornado.iostream.StreamClosedError: Stream is closed
+[I 2022-06-14 10:04:50.256 LabApp] Build is up to date
+[I 2022-06-14 10:04:56.702 ServerApp] Kernel started: e83b10e3-f0f4-4818-bf0f-af3f4520a3f3
+[I 2022-06-14 10:04:56.705 ServerApp] Kernel started: 406b89bf-6704-4f5c-81a6-a49361f6aafd
+[I 2022-06-14 10:04:56.707 ServerApp] Kernel started: 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a
+[I 2022-06-14 10:04:56.711 ServerApp] Kernel started: db9d49e7-b2e4-4643-b27c-3fa1902eaaaf
+[I 2022-06-14 10:04:56.714 ServerApp] Kernel started: 9aac199e-45ec-4a45-9eb8-e3bf34a8a587
+[I 2022-06-14 10:04:56.717 ServerApp] Kernel started: 4dc1853a-044e-4c3a-a63f-0c24d583e060
+[I 2022-06-14 10:05:03.380 ServerApp] Starting buffering for 4dc1853a-044e-4c3a-a63f-0c24d583e060:fdd37e63-930f-4829-abf3-3114c1638d34
+[I 2022-06-14 10:09:00.039 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-14 10:10:47.843 ServerApp] Saving file at /jupyter_notebooks/paper/1b.Precipitation_timeseries.ipynb
+[I 2022-06-14 10:10:59.155 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
+[I 2022-06-14 10:12:10.963 ServerApp] Saving file at /jupyter_notebooks/paper/1a.Temperature_timeseries.ipynb
