@@ -26,16 +26,15 @@ program agcm_main
 
 
             ! 2.1 run atmospheric model for 1 day
-            !call set_precision('rp_agcm')
+            call set_precision('rp_agcm')
             call agcm_1day(jday)
             
 
             
             ! 2.2 exchange data with coupler
-            !call set_precision('rp_coupler')
+            call set_precision('rp_coupler')
             call agcm_to_coupler(jday)            
             call coupler_to_agcm(jday)
-            !call set_precision('rp_agcm')
 
 
         enddo
@@ -83,9 +82,9 @@ subroutine agcm_1day(jday)
 
 
     ! 3. integrate the atmospheric model for 1 day
-    !call set_precision('rp_stloop')
+    call set_precision('rp_stloop')
     call stloop(istep)
-    !call set_precision('rp_agcm')
+    call set_precision('rp_agcm')
 
     
 
