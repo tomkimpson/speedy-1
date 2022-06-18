@@ -431,7 +431,15 @@
 #nohup time ./run.sh speedyone10yr_L2_10_RN_m5_explore    015 2 SRoff10              10year4CO2 > output/speedyone10yr_L2_10_RN_m5_exp.out &
 
 #Mixed precision
-nohup time ./run.sh speedyone10yr_L2_10_RNagcm_m5_W15    015 2 SRoff10_agcm         10year4CO2 > output/speedyone10yr_L2_10_RNagcm_m5_W15.out &
-nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m5_W15     015 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m5_W15.out &
-nohup time ./run.sh speedyone10yr_L2_10_RNstloop_m5_W15  015 2 SRoff10_stloop       10year4CO2 > output/speedyone10yr_L2_10_RNstloop_m5_W15.out &
-nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m5_W15 015 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m5_W15.out &
+#nohup time ./run.sh speedyone10yr_L2_10_RNagcm_m5_W15    015 2 SRoff10_agcm         10year4CO2 > output/speedyone10yr_L2_10_RNagcm_m5_W15.out &
+#nohup time ./run.sh speedyone10yr_L2_10_RNcpl_m5_W15     015 2 SRoff10_coupler      10year4CO2 > output/speedyone10yr_L2_10_RNcpl_m5_W15.out &
+#nohup time ./run.sh speedyone10yr_L2_10_RNstloop_m5_W15  015 2 SRoff10_stloop       10year4CO2 > output/speedyone10yr_L2_10_RNstloop_m5_W15.out &
+#nohup time ./run.sh speedyone10yr_L2_10_RNstloop5_m5_W15 015 2 SRoff10_stloop5      10year4CO2 > output/speedyone10yr_L2_10_RNstloop5_m5_W15.out &
+
+
+#100 year coupler runs
+nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m5     015 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m5.out &
+nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m6     016 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m6.out &
+nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m7     017 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m7.out &
+nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m8     018 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m8.out &
+nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m9     019 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m9.out &
