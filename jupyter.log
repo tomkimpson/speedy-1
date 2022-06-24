@@ -1430,3 +1430,735 @@
 [I 2022-06-15 11:26:35.825 ServerApp] Saving file at /jupyter_notebooks/paper/2b.Precipitation_globalmap.ipynb
 [I 2022-06-15 11:28:40.318 ServerApp] Saving file at /jupyter_notebooks/paper/2b.Precipitation_globalmap.ipynb
 [I 2022-06-15 11:30:45.357 ServerApp] Saving file at /jupyter_notebooks/paper/2b.Precipitation_globalmap.ipynb
+[I 2022-06-15 11:50:49.413 ServerApp] Saving file at /jupyter_notebooks/paper/2b.Precipitation_globalmap.ipynb
+[I 2022-06-15 11:52:53.935 ServerApp] Saving file at /jupyter_notebooks/paper/2b.Precipitation_globalmap.ipynb
+[I 2022-06-15 11:54:58.952 ServerApp] Saving file at /jupyter_notebooks/paper/2b.Precipitation_globalmap.ipynb
+[I 2022-06-15 11:57:05.537 ServerApp] Saving file at /jupyter_notebooks/paper/2b.Precipitation_globalmap.ipynb
+[I 2022-06-15 11:58:40.727 ServerApp] Copying jupyter_notebooks/3.Wasserstein-Temperature.ipynb to /jupyter_notebooks
+[I 2022-06-15 11:59:11.196 ServerApp] Kernel started: d0b5d8f6-b210-4d9d-928b-72ece71e7dd2
+[I 2022-06-15 12:01:10.566 ServerApp] Saving file at /jupyter_notebooks/paper/3a.Temperature_wassersteindistance.ipynb
+[I 2022-06-15 12:03:11.031 ServerApp] Saving file at /jupyter_notebooks/paper/3a.Temperature_wassersteindistance.ipynb
+[I 2022-06-15 12:05:11.445 ServerApp] Saving file at /jupyter_notebooks/paper/3a.Temperature_wassersteindistance.ipynb
+[I 2022-06-15 12:19:28.712 ServerApp] Saving file at /jupyter_notebooks/paper/3a.Temperature_wassersteindistance.ipynb
+[I 2022-06-15 12:21:30.159 ServerApp] Saving file at /jupyter_notebooks/paper/3a.Temperature_wassersteindistance.ipynb
+[I 2022-06-15 12:22:14.703 ServerApp] Copying jupyter_notebooks/3.Wasserstein-Precip.ipynb to /jupyter_notebooks
+[I 2022-06-15 12:22:53.658 ServerApp] Kernel started: a40f0e36-5558-4563-a00c-921c3ec6aa8c
+[W 2022-06-15 12:35:20.181 ServerApp] Forbidden
+[W 2022-06-15 12:35:20.182 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655292920025 (::1) 4.11ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3a.Temperature_wassersteindistance.ipynb
+[W 2022-06-15 12:35:20.311 ServerApp] Forbidden
+[W 2022-06-15 12:35:20.312 ServerApp] 403 GET /api/kernels?1655292920232 (::1) 2.14ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3a.Temperature_wassersteindistance.ipynb
+[W 2022-06-15 12:35:20.315 ServerApp] Forbidden
+[W 2022-06-15 12:35:20.316 ServerApp] 403 GET /api/terminals?1655292920233 (::1) 1.70ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3a.Temperature_wassersteindistance.ipynb
+[W 2022-06-15 12:35:20.318 ServerApp] Forbidden
+[W 2022-06-15 12:35:20.319 ServerApp] 403 GET /api/sessions?1655292920233 (::1) 1.73ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3a.Temperature_wassersteindistance.ipynb
+[W 2022-06-15 12:35:20.616 LabApp] Forbidden
+[W 2022-06-15 12:35:20.618 LabApp] 403 PUT /lab/api/workspaces/default?1655292920535 (::1) 3.41ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3a.Temperature_wassersteindistance.ipynb
+[W 2022-06-15 12:35:48.144 ServerApp] Forbidden
+[W 2022-06-15 12:35:48.145 ServerApp] 403 GET /api/sessions?1655292948063 (::1) 2.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3a.Temperature_wassersteindistance.ipynb
+[W 2022-06-15 12:35:49.004 ServerApp] Forbidden
+[W 2022-06-15 12:35:49.005 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655292948860 (::1) 3.15ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:35:49.454 LabApp] Forbidden
+[W 2022-06-15 12:35:49.455 LabApp] 403 PUT /lab/api/workspaces/default?1655292949371 (::1) 2.50ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:35:50.142 ServerApp] Forbidden
+[W 2022-06-15 12:35:50.142 ServerApp] 403 GET /api/kernels?1655292950060 (::1) 2.01ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:36:42.297 ServerApp] Forbidden
+[W 2022-06-15 12:36:42.299 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655293002199 (::1) 5.24ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:36:42.302 ServerApp] Forbidden
+[W 2022-06-15 12:36:42.303 ServerApp] 403 GET /api/sessions?1655293002199 (::1) 2.05ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:56:23.655 ServerApp] Forbidden
+[W 2022-06-15 12:56:23.657 ServerApp] 403 GET /api/terminals?1655294183293 (::1) 5.80ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:56:23.658 ServerApp] Forbidden
+[W 2022-06-15 12:56:23.659 ServerApp] 403 GET /api/sessions?1655294183293 (::1) 5.69ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:56:23.663 ServerApp] Forbidden
+[W 2022-06-15 12:56:23.664 ServerApp] 403 GET /api/kernels?1655294183294 (::1) 3.44ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:56:23.664 ServerApp] Forbidden
+[W 2022-06-15 12:56:23.665 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294183294 (::1) 3.64ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:07.441 ServerApp] Forbidden
+[W 2022-06-15 12:58:07.442 ServerApp] 403 GET /api/kernels?1655294287249 (::1) 2.71ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:10.354 ServerApp] Forbidden
+[W 2022-06-15 12:58:10.356 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294290253 (::1) 2.88ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:11.331 ServerApp] Forbidden
+[W 2022-06-15 12:58:11.332 ServerApp] 403 GET /api/terminals?1655294291231 (::1) 2.21ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:11.336 ServerApp] Forbidden
+[W 2022-06-15 12:58:11.337 ServerApp] 403 GET /api/sessions?1655294291231 (::1) 2.65ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:20.592 ServerApp] Forbidden
+[W 2022-06-15 12:58:20.593 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294300489 (::1) 2.94ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:28.801 ServerApp] Forbidden
+[W 2022-06-15 12:58:28.803 ServerApp] 403 GET /api/sessions?1655294308659 (::1) 2.76ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:30.633 ServerApp] Forbidden
+[W 2022-06-15 12:58:30.634 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294310532 (::1) 2.39ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:30.906 ServerApp] Forbidden
+[W 2022-06-15 12:58:30.907 ServerApp] 403 GET /api/terminals?1655294310804 (::1) 2.06ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:35.481 ServerApp] Forbidden
+[W 2022-06-15 12:58:35.482 ServerApp] 403 GET /api/kernels?1655294315340 (::1) 2.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:40.676 ServerApp] Forbidden
+[W 2022-06-15 12:58:40.677 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294320573 (::1) 2.90ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:50.703 ServerApp] Forbidden
+[W 2022-06-15 12:58:50.705 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294330601 (::1) 2.85ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:51.479 ServerApp] Forbidden
+[W 2022-06-15 12:58:51.481 ServerApp] 403 GET /api/kernelspecs?1655294331262 (::1) 2.92ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:58:56.478 ServerApp] Forbidden
+[W 2022-06-15 12:58:56.479 ServerApp] 403 GET /api/sessions?1655294336374 (::1) 2.69ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:59:00.918 ServerApp] Forbidden
+[W 2022-06-15 12:59:00.919 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294340643 (::1) 2.91ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:59:10.958 ServerApp] Forbidden
+[W 2022-06-15 12:59:10.959 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294350847 (::1) 2.91ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:59:20.992 ServerApp] Forbidden
+[W 2022-06-15 12:59:20.994 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294360889 (::1) 2.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:59:24.482 ServerApp] Forbidden
+[W 2022-06-15 12:59:24.484 ServerApp] 403 GET /api/terminals?1655294364379 (::1) 2.63ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:59:30.361 ServerApp] Forbidden
+[W 2022-06-15 12:59:30.362 ServerApp] 403 GET /api/kernels?1655294370258 (::1) 2.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:59:31.019 ServerApp] Forbidden
+[W 2022-06-15 12:59:31.021 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294370918 (::1) 2.93ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:59:41.059 ServerApp] Forbidden
+[W 2022-06-15 12:59:41.060 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294380949 (::1) 2.87ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:59:44.300 ServerApp] Forbidden
+[W 2022-06-15 12:59:44.302 ServerApp] 403 GET /api/sessions?1655294384149 (::1) 2.59ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:59:51.248 ServerApp] Forbidden
+[W 2022-06-15 12:59:51.250 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294391062 (::1) 2.62ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:59:51.692 ServerApp] Forbidden
+[W 2022-06-15 12:59:51.693 ServerApp] 403 GET /api/kernels?1655294391589 (::1) 2.27ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 12:59:54.920 ServerApp] Forbidden
+[W 2022-06-15 12:59:54.921 ServerApp] 403 GET /api/sessions?1655294394818 (::1) 2.55ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:00:01.495 ServerApp] Forbidden
+[W 2022-06-15 13:00:01.497 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294401174 (::1) 5.40ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:00:03.302 ServerApp] Forbidden
+[W 2022-06-15 13:00:03.304 ServerApp] 403 GET /api/kernels?1655294403198 (::1) 2.87ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:00:06.709 ServerApp] Forbidden
+[W 2022-06-15 13:00:06.711 ServerApp] 403 GET /api/sessions?1655294406605 (::1) 3.32ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:00:11.744 ServerApp] Forbidden
+[W 2022-06-15 13:00:11.745 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294411640 (::1) 2.71ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:00:21.774 ServerApp] Forbidden
+[W 2022-06-15 13:00:21.776 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294421671 (::1) 2.86ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:00:24.557 ServerApp] Forbidden
+[W 2022-06-15 13:00:24.558 ServerApp] 403 GET /api/kernels?1655294424455 (::1) 3.00ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:00:31.855 ServerApp] Forbidden
+[W 2022-06-15 13:00:31.856 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294431735 (::1) 3.14ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:00:33.445 ServerApp] Forbidden
+[W 2022-06-15 13:00:33.446 ServerApp] 403 GET /api/sessions?1655294433339 (::1) 2.68ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:00:41.974 ServerApp] Forbidden
+[W 2022-06-15 13:00:41.975 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294441781 (::1) 2.82ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:00:52.072 ServerApp] Forbidden
+[W 2022-06-15 13:00:52.073 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294451899 (::1) 2.78ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:00:57.367 ServerApp] Forbidden
+[W 2022-06-15 13:00:57.368 ServerApp] 403 GET /api/kernels?1655294457264 (::1) 2.68ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:01:02.103 ServerApp] Forbidden
+[W 2022-06-15 13:01:02.105 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294462000 (::1) 3.19ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:01:12.136 ServerApp] Forbidden
+[W 2022-06-15 13:01:12.138 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294472031 (::1) 2.80ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:01:20.378 ServerApp] Forbidden
+[W 2022-06-15 13:01:20.380 ServerApp] 403 GET /api/sessions?1655294480240 (::1) 2.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:01:22.179 ServerApp] Forbidden
+[W 2022-06-15 13:01:22.181 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294482063 (::1) 2.78ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:01:24.965 ServerApp] Forbidden
+[W 2022-06-15 13:01:24.966 ServerApp] 403 GET /api/kernelspecs?1655294484652 (::1) 2.51ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:01:32.213 ServerApp] Forbidden
+[W 2022-06-15 13:01:32.214 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294492109 (::1) 3.06ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:01:42.409 ServerApp] Forbidden
+[W 2022-06-15 13:01:42.411 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294502215 (::1) 2.25ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:01:43.448 ServerApp] Forbidden
+[W 2022-06-15 13:01:43.449 ServerApp] 403 GET /api/kernels?1655294503114 (::1) 2.69ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:01:47.642 ServerApp] Forbidden
+[W 2022-06-15 13:01:47.644 ServerApp] 403 GET /api/terminals?1655294507392 (::1) 3.20ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:01:52.440 ServerApp] Forbidden
+[W 2022-06-15 13:01:52.441 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294512337 (::1) 2.20ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:01:53.097 ServerApp] Forbidden
+[W 2022-06-15 13:01:53.098 ServerApp] 403 GET /api/sessions?1655294512993 (::1) 2.70ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:02:02.475 ServerApp] Forbidden
+[W 2022-06-15 13:02:02.476 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294522369 (::1) 2.91ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:02:12.513 ServerApp] Forbidden
+[W 2022-06-15 13:02:12.514 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294532401 (::1) 2.93ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:02:22.637 ServerApp] Forbidden
+[W 2022-06-15 13:02:22.639 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294542478 (::1) 2.96ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:02:32.731 ServerApp] Forbidden
+[W 2022-06-15 13:02:32.732 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294552564 (::1) 2.84ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:02:34.828 ServerApp] Forbidden
+[W 2022-06-15 13:02:34.829 ServerApp] 403 GET /api/terminals?1655294554598 (::1) 2.63ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:02:42.763 ServerApp] Forbidden
+[W 2022-06-15 13:02:42.765 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294562659 (::1) 3.26ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:02:52.795 ServerApp] Forbidden
+[W 2022-06-15 13:02:52.797 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294572691 (::1) 2.78ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:02:57.896 ServerApp] Forbidden
+[W 2022-06-15 13:02:57.897 ServerApp] 403 GET /api/sessions?1655294577720 (::1) 2.51ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:03:02.847 ServerApp] Forbidden
+[W 2022-06-15 13:03:02.848 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294582724 (::1) 2.94ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:03:12.969 ServerApp] Forbidden
+[W 2022-06-15 13:03:12.971 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294592776 (::1) 2.87ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:03:15.722 ServerApp] Forbidden
+[W 2022-06-15 13:03:15.723 ServerApp] 403 GET /api/terminals?1655294595609 (::1) 2.11ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:03:23.063 ServerApp] Forbidden
+[W 2022-06-15 13:03:23.064 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294602909 (::1) 2.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:03:31.668 ServerApp] Forbidden
+[W 2022-06-15 13:03:31.670 ServerApp] 403 GET /api/kernels?1655294611565 (::1) 2.60ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:03:33.093 ServerApp] Forbidden
+[W 2022-06-15 13:03:33.095 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294612990 (::1) 2.42ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:03:43.128 ServerApp] Forbidden
+[W 2022-06-15 13:03:43.130 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294623023 (::1) 3.24ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:03:53.176 ServerApp] Forbidden
+[W 2022-06-15 13:03:53.177 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294633059 (::1) 2.79ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:04:03.302 ServerApp] Forbidden
+[W 2022-06-15 13:04:03.303 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294643105 (::1) 2.75ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:04:13.395 ServerApp] Forbidden
+[W 2022-06-15 13:04:13.396 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294653233 (::1) 2.94ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:04:14.443 ServerApp] Forbidden
+[W 2022-06-15 13:04:14.444 ServerApp] 403 GET /api/kernels?1655294654251 (::1) 2.22ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:04:23.428 ServerApp] Forbidden
+[W 2022-06-15 13:04:23.430 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294663324 (::1) 2.86ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:04:33.460 ServerApp] Forbidden
+[W 2022-06-15 13:04:33.462 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294673357 (::1) 2.70ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:04:42.755 ServerApp] Forbidden
+[W 2022-06-15 13:04:42.756 ServerApp] 403 GET /api/terminals?1655294682549 (::1) 2.36ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:04:43.804 ServerApp] Forbidden
+[W 2022-06-15 13:04:43.805 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294683392 (::1) 2.83ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:04:53.844 ServerApp] Forbidden
+[W 2022-06-15 13:04:53.845 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294693737 (::1) 2.56ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:05:03.878 ServerApp] Forbidden
+[W 2022-06-15 13:05:03.879 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294703773 (::1) 2.73ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:05:13.913 ServerApp] Forbidden
+[W 2022-06-15 13:05:13.914 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294713807 (::1) 3.11ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:05:23.943 ServerApp] Forbidden
+[W 2022-06-15 13:05:23.945 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294723840 (::1) 3.09ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:05:34.134 ServerApp] Forbidden
+[W 2022-06-15 13:05:34.136 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294733955 (::1) 2.94ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:05:40.426 ServerApp] Forbidden
+[W 2022-06-15 13:05:40.428 ServerApp] 403 GET /api/sessions?1655294740243 (::1) 2.42ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:05:43.593 ServerApp] Forbidden
+[W 2022-06-15 13:05:43.594 ServerApp] 403 GET /api/kernels?1655294743472 (::1) 2.48ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:05:44.169 ServerApp] Forbidden
+[W 2022-06-15 13:05:44.170 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294744062 (::1) 2.45ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:05:54.202 ServerApp] Forbidden
+[W 2022-06-15 13:05:54.203 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294754096 (::1) 3.12ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:06:04.269 ServerApp] Forbidden
+[W 2022-06-15 13:06:04.271 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294764161 (::1) 3.02ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:06:14.375 ServerApp] Forbidden
+[W 2022-06-15 13:06:14.377 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294774210 (::1) 3.22ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:06:24.474 ServerApp] Forbidden
+[W 2022-06-15 13:06:24.475 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294784335 (::1) 2.68ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:06:25.021 ServerApp] Forbidden
+[W 2022-06-15 13:06:25.022 ServerApp] 403 GET /api/kernelspecs?1655294784914 (::1) 2.28ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:06:34.519 ServerApp] Forbidden
+[W 2022-06-15 13:06:34.520 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294794411 (::1) 2.64ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:06:44.567 ServerApp] Forbidden
+[W 2022-06-15 13:06:44.577 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294804461 (::1) 11.05ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:06:54.620 ServerApp] Forbidden
+[W 2022-06-15 13:06:54.621 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294814508 (::1) 4.11ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:07:04.707 ServerApp] Forbidden
+[W 2022-06-15 13:07:04.709 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294824553 (::1) 3.28ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:07:14.812 ServerApp] Forbidden
+[W 2022-06-15 13:07:14.813 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294834635 (::1) 2.88ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:07:24.846 ServerApp] Forbidden
+[W 2022-06-15 13:07:24.847 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294844735 (::1) 2.67ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:07:26.333 ServerApp] Forbidden
+[W 2022-06-15 13:07:26.334 ServerApp] 403 GET /api/kernels?1655294846163 (::1) 2.41ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:07:34.877 ServerApp] Forbidden
+[W 2022-06-15 13:07:34.878 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294854773 (::1) 2.72ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:07:44.920 ServerApp] Forbidden
+[W 2022-06-15 13:07:44.921 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294864803 (::1) 2.64ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:07:55.037 ServerApp] Forbidden
+[W 2022-06-15 13:07:55.038 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294874852 (::1) 2.69ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:08:05.130 ServerApp] Forbidden
+[W 2022-06-15 13:08:05.131 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294884970 (::1) 2.68ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:08:15.169 ServerApp] Forbidden
+[W 2022-06-15 13:08:15.170 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294895062 (::1) 2.80ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:08:25.227 ServerApp] Forbidden
+[W 2022-06-15 13:08:25.229 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294905121 (::1) 3.04ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:08:35.270 ServerApp] Forbidden
+[W 2022-06-15 13:08:35.271 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294915160 (::1) 3.10ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:08:45.706 ServerApp] Forbidden
+[W 2022-06-15 13:08:45.707 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294925600 (::1) 2.59ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:08:52.782 ServerApp] Forbidden
+[W 2022-06-15 13:08:52.783 ServerApp] 403 GET /api/terminals?1655294932675 (::1) 3.15ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:08:55.857 ServerApp] Forbidden
+[W 2022-06-15 13:08:55.858 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294935640 (::1) 3.18ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:09:05.951 ServerApp] Forbidden
+[W 2022-06-15 13:09:05.952 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294945782 (::1) 2.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:09:15.987 ServerApp] Forbidden
+[W 2022-06-15 13:09:15.988 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294955882 (::1) 2.43ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:09:26.017 ServerApp] Forbidden
+[W 2022-06-15 13:09:26.018 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294965910 (::1) 2.92ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:09:36.055 ServerApp] Forbidden
+[W 2022-06-15 13:09:36.057 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294975948 (::1) 2.83ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:09:46.088 ServerApp] Forbidden
+[W 2022-06-15 13:09:46.090 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294985980 (::1) 3.33ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:09:46.985 ServerApp] Forbidden
+[W 2022-06-15 13:09:46.986 ServerApp] 403 GET /api/sessions?1655294986879 (::1) 2.70ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:09:56.280 ServerApp] Forbidden
+[W 2022-06-15 13:09:56.282 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655294996098 (::1) 2.94ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:10:06.323 ServerApp] Forbidden
+[W 2022-06-15 13:10:06.324 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295006216 (::1) 2.95ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:10:16.353 ServerApp] Forbidden
+[W 2022-06-15 13:10:16.354 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295016248 (::1) 1.85ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:10:26.389 ServerApp] Forbidden
+[W 2022-06-15 13:10:26.390 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295026284 (::1) 2.15ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:10:36.420 ServerApp] Forbidden
+[W 2022-06-15 13:10:36.422 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295036314 (::1) 2.82ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:10:46.613 ServerApp] Forbidden
+[W 2022-06-15 13:10:46.614 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295046423 (::1) 3.05ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:10:56.653 ServerApp] Forbidden
+[W 2022-06-15 13:10:56.655 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295056537 (::1) 2.74ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:11:06.687 ServerApp] Forbidden
+[W 2022-06-15 13:11:06.689 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295066580 (::1) 3.29ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:11:16.719 ServerApp] Forbidden
+[W 2022-06-15 13:11:16.720 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295076613 (::1) 2.95ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:11:25.088 ServerApp] Forbidden
+[W 2022-06-15 13:11:25.089 ServerApp] 403 GET /api/kernelspecs?1655295084981 (::1) 2.78ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:11:26.459 ServerApp] Forbidden
+[W 2022-06-15 13:11:26.460 ServerApp] 403 GET /api/terminals?1655295086312 (::1) 2.54ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:11:26.751 ServerApp] Forbidden
+[W 2022-06-15 13:11:26.752 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295086644 (::1) 2.66ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:11:27.119 ServerApp] Forbidden
+[W 2022-06-15 13:11:27.120 ServerApp] 403 GET /api/kernels?1655295086786 (::1) 2.21ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:11:36.945 ServerApp] Forbidden
+[W 2022-06-15 13:11:36.946 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295096750 (::1) 2.96ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:11:47.009 ServerApp] Forbidden
+[W 2022-06-15 13:11:47.011 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295106902 (::1) 3.15ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:11:57.040 ServerApp] Forbidden
+[W 2022-06-15 13:11:57.042 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295116933 (::1) 2.85ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:12:07.076 ServerApp] Forbidden
+[W 2022-06-15 13:12:07.078 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295126970 (::1) 3.04ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:12:17.184 ServerApp] Forbidden
+[W 2022-06-15 13:12:17.185 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295137008 (::1) 2.94ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:12:27.277 ServerApp] Forbidden
+[W 2022-06-15 13:12:27.278 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295147109 (::1) 2.89ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:12:37.311 ServerApp] Forbidden
+[W 2022-06-15 13:12:37.313 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295157205 (::1) 3.23ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:12:47.357 ServerApp] Forbidden
+[W 2022-06-15 13:12:47.359 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295167244 (::1) 2.89ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:12:57.388 ServerApp] Forbidden
+[W 2022-06-15 13:12:57.390 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295177280 (::1) 2.85ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:13:07.417 ServerApp] Forbidden
+[W 2022-06-15 13:13:07.418 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295187311 (::1) 2.70ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:13:17.608 ServerApp] Forbidden
+[W 2022-06-15 13:13:17.609 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295197425 (::1) 2.81ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:13:27.639 ServerApp] Forbidden
+[W 2022-06-15 13:13:27.640 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295207532 (::1) 3.02ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:13:37.670 ServerApp] Forbidden
+[W 2022-06-15 13:13:37.672 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295217564 (::1) 2.72ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:13:47.719 ServerApp] Forbidden
+[W 2022-06-15 13:13:47.720 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295227599 (::1) 2.72ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:13:54.309 ServerApp] Forbidden
+[W 2022-06-15 13:13:54.310 ServerApp] 403 GET /api/terminals?1655295234153 (::1) 2.65ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:13:57.851 ServerApp] Forbidden
+[W 2022-06-15 13:13:57.853 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295237650 (::1) 5.73ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:14:07.943 ServerApp] Forbidden
+[W 2022-06-15 13:14:07.944 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295247774 (::1) 2.92ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:14:17.975 ServerApp] Forbidden
+[W 2022-06-15 13:14:17.976 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295257870 (::1) 3.23ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:14:28.006 ServerApp] Forbidden
+[W 2022-06-15 13:14:28.008 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295267900 (::1) 2.86ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:14:38.052 ServerApp] Forbidden
+[W 2022-06-15 13:14:38.053 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295277929 (::1) 2.70ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:14:47.128 ServerApp] Forbidden
+[W 2022-06-15 13:14:47.130 ServerApp] 403 GET /api/sessions?1655295286918 (::1) 3.33ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:14:48.080 ServerApp] Forbidden
+[W 2022-06-15 13:14:48.082 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295287974 (::1) 2.90ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:14:58.274 ServerApp] Forbidden
+[W 2022-06-15 13:14:58.275 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295298082 (::1) 3.16ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:15:08.314 ServerApp] Forbidden
+[W 2022-06-15 13:15:08.316 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295308206 (::1) 2.91ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:15:18.347 ServerApp] Forbidden
+[W 2022-06-15 13:15:18.348 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295318239 (::1) 2.86ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:15:28.380 ServerApp] Forbidden
+[W 2022-06-15 13:15:28.381 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295328274 (::1) 2.57ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:15:38.409 ServerApp] Forbidden
+[W 2022-06-15 13:15:38.411 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295338302 (::1) 2.86ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:15:38.698 ServerApp] Forbidden
+[W 2022-06-15 13:15:38.700 ServerApp] 403 GET /api/sessions?1655295338591 (::1) 2.60ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:15:48.605 ServerApp] Forbidden
+[W 2022-06-15 13:15:48.606 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295348416 (::1) 2.94ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:15:58.658 ServerApp] Forbidden
+[W 2022-06-15 13:15:58.660 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295358547 (::1) 2.71ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:16:08.695 ServerApp] Forbidden
+[W 2022-06-15 13:16:08.697 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295368588 (::1) 2.84ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:16:15.868 ServerApp] Forbidden
+[W 2022-06-15 13:16:15.869 ServerApp] 403 GET /api/kernels?1655295375726 (::1) 3.07ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:16:18.732 ServerApp] Forbidden
+[W 2022-06-15 13:16:18.733 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295378626 (::1) 2.50ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:16:25.314 ServerApp] Forbidden
+[W 2022-06-15 13:16:25.315 ServerApp] 403 GET /api/kernelspecs?1655295385015 (::1) 3.04ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:16:28.843 ServerApp] Forbidden
+[W 2022-06-15 13:16:28.844 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295388658 (::1) 2.43ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:16:38.937 ServerApp] Forbidden
+[W 2022-06-15 13:16:38.938 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295398791 (::1) 2.82ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:16:48.992 ServerApp] Forbidden
+[W 2022-06-15 13:16:48.993 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295408879 (::1) 2.64ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:16:59.028 ServerApp] Forbidden
+[W 2022-06-15 13:16:59.029 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295418920 (::1) 2.76ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:17:09.060 ServerApp] Forbidden
+[W 2022-06-15 13:17:09.061 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295428952 (::1) 2.72ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:17:19.173 ServerApp] Forbidden
+[W 2022-06-15 13:17:19.174 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295438984 (::1) 2.67ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:17:29.268 ServerApp] Forbidden
+[W 2022-06-15 13:17:29.270 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295449113 (::1) 2.81ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:17:37.907 ServerApp] Forbidden
+[W 2022-06-15 13:17:37.908 ServerApp] 403 GET /api/terminals?1655295457788 (::1) 2.38ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:17:39.323 ServerApp] Forbidden
+[W 2022-06-15 13:17:39.325 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295459196 (::1) 2.91ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:17:49.365 ServerApp] Forbidden
+[W 2022-06-15 13:17:49.366 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295469251 (::1) 2.79ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:17:59.401 ServerApp] Forbidden
+[W 2022-06-15 13:17:59.402 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295479293 (::1) 2.68ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:18:09.505 ServerApp] Forbidden
+[W 2022-06-15 13:18:09.506 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295489331 (::1) 2.91ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:18:12.352 ServerApp] Forbidden
+[W 2022-06-15 13:18:12.354 ServerApp] 403 GET /api/sessions?1655295492246 (::1) 2.85ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:18:19.600 ServerApp] Forbidden
+[W 2022-06-15 13:18:19.601 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295499442 (::1) 2.74ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:18:29.639 ServerApp] Forbidden
+[W 2022-06-15 13:18:29.641 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295509531 (::1) 2.66ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:18:39.682 ServerApp] Forbidden
+[W 2022-06-15 13:18:39.683 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295519575 (::1) 2.74ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:18:49.711 ServerApp] Forbidden
+[W 2022-06-15 13:18:49.712 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295529603 (::1) 2.48ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:18:59.839 ServerApp] Forbidden
+[W 2022-06-15 13:18:59.841 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295539640 (::1) 2.66ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:19:09.959 ServerApp] Forbidden
+[W 2022-06-15 13:19:09.961 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295549770 (::1) 3.22ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:19:20.070 ServerApp] Forbidden
+[W 2022-06-15 13:19:20.072 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295559963 (::1) 2.95ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:19:28.896 ServerApp] Forbidden
+[W 2022-06-15 13:19:28.897 ServerApp] 403 GET /api/kernels?1655295568783 (::1) 2.69ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:19:30.107 ServerApp] Forbidden
+[W 2022-06-15 13:19:30.109 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295570000 (::1) 2.90ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:19:35.633 ServerApp] Forbidden
+[W 2022-06-15 13:19:35.635 ServerApp] 403 GET /api/terminals?1655295575501 (::1) 2.93ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:19:40.346 ServerApp] Forbidden
+[W 2022-06-15 13:19:40.347 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295580037 (::1) 2.77ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:19:50.381 ServerApp] Forbidden
+[W 2022-06-15 13:19:50.382 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295590272 (::1) 2.94ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:20:00.423 ServerApp] Forbidden
+[W 2022-06-15 13:20:00.424 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295600313 (::1) 2.71ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:20:10.765 ServerApp] Forbidden
+[W 2022-06-15 13:20:10.766 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295610355 (::1) 2.84ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:20:21.237 ServerApp] Forbidden
+[W 2022-06-15 13:20:21.238 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295620692 (::1) 2.61ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:20:31.723 ServerApp] Forbidden
+[W 2022-06-15 13:20:31.724 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295631161 (::1) 2.73ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:20:41.754 ServerApp] Forbidden
+[W 2022-06-15 13:20:41.756 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295641647 (::1) 2.83ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:20:51.805 ServerApp] Forbidden
+[W 2022-06-15 13:20:51.807 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295651681 (::1) 2.48ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:21:01.838 ServerApp] Forbidden
+[W 2022-06-15 13:21:01.840 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295661730 (::1) 2.86ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:21:11.964 ServerApp] Forbidden
+[W 2022-06-15 13:21:11.967 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295671762 (::1) 6.34ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:21:22.054 ServerApp] Forbidden
+[W 2022-06-15 13:21:22.055 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295681890 (::1) 2.62ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:21:25.396 ServerApp] Forbidden
+[W 2022-06-15 13:21:25.397 ServerApp] 403 GET /api/kernelspecs?1655295685280 (::1) 2.59ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:21:32.087 ServerApp] Forbidden
+[W 2022-06-15 13:21:32.088 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295691967 (::1) 2.67ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:21:42.131 ServerApp] Forbidden
+[W 2022-06-15 13:21:42.132 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295701997 (::1) 2.90ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:21:52.181 ServerApp] Forbidden
+[W 2022-06-15 13:21:52.182 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295712041 (::1) 2.88ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:22:02.479 ServerApp] Forbidden
+[W 2022-06-15 13:22:02.480 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295722353 (::1) 2.75ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:22:12.516 ServerApp] Forbidden
+[W 2022-06-15 13:22:12.517 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295732388 (::1) 2.75ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:22:22.870 ServerApp] Forbidden
+[W 2022-06-15 13:22:22.872 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295742426 (::1) 2.68ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:22:32.912 ServerApp] Forbidden
+[W 2022-06-15 13:22:32.913 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295752775 (::1) 2.89ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:22:42.948 ServerApp] Forbidden
+[W 2022-06-15 13:22:42.949 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295762815 (::1) 2.72ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:22:52.982 ServerApp] Forbidden
+[W 2022-06-15 13:22:52.983 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295772855 (::1) 2.61ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:23:03.012 ServerApp] Forbidden
+[W 2022-06-15 13:23:03.014 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295782885 (::1) 3.19ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:25:07.498 ServerApp] Forbidden
+[W 2022-06-15 13:25:07.499 ServerApp] 403 GET /api/contents/jupyter_notebooks?content=1&1655295907328 (::1) 2.74ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:25:08.230 ServerApp] Forbidden
+[W 2022-06-15 13:25:08.231 ServerApp] 403 GET /api/terminals?1655295908103 (::1) 2.62ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:25:08.665 ServerApp] Forbidden
+[W 2022-06-15 13:25:08.667 ServerApp] 403 GET /api/contents/jupyter_notebooks?content=1&1655295908519 (::1) 2.75ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:25:10.645 ServerApp] Forbidden
+[W 2022-06-15 13:25:10.646 ServerApp] 403 GET /api/contents/jupyter_notebooks?content=1&1655295910466 (::1) 2.62ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:25:10.771 ServerApp] Forbidden
+[W 2022-06-15 13:25:10.772 ServerApp] 403 GET /api/contents/jupyter_notebooks?content=1&1655295910645 (::1) 2.28ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:25:11.333 ServerApp] Forbidden
+[W 2022-06-15 13:25:11.335 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295911207 (::1) 2.82ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:25:11.387 ServerApp] Forbidden
+[W 2022-06-15 13:25:11.389 ServerApp] 403 GET /api/sessions?1655295911256 (::1) 3.05ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:25:11.406 ServerApp] Forbidden
+[W 2022-06-15 13:25:11.407 ServerApp] 403 GET /api/contents/jupyter_notebooks/paper?content=1&1655295911258 (::1) 2.34ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:25:11.829 ServerApp] Forbidden
+[W 2022-06-15 13:25:11.830 ServerApp] 403 GET /api/contents/jupyter_notebooks?content=1&1655295911703 (::1) 2.51ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[W 2022-06-15 13:25:12.350 ServerApp] Forbidden
+[W 2022-06-15 13:25:12.351 ServerApp] 403 GET /api/kernels?1655295912223 (::1) 2.65ms referer=http://localhost:8885/lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb
+[I 2022-06-15 13:25:12.910 LabApp] 302 GET /lab/tree/jupyter_notebooks/paper/3b.Precipitation_wassersteindistance.ipynb (::1) 2.49ms
+[I 2022-06-15 13:25:13.297 ServerApp] Starting buffering for d0b5d8f6-b210-4d9d-928b-72ece71e7dd2:72c84da3-eed4-4ae3-b710-2e1355d11952
+[I 2022-06-15 13:25:13.299 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:d06e0a7f-3408-4659-8c40-c8ec7a99c7e9
+[I 2022-06-15 13:25:13.301 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:afd95d6c-b8a2-4134-9a03-11f1239b7759
+[I 2022-06-15 13:25:13.304 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:5b791854-c51a-432e-96f6-3ad1a803604d
+[I 2022-06-15 13:25:13.306 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:12e2437d-a764-4caf-a0a5-14c3b80dfa34
+[I 2022-06-15 13:25:13.307 ServerApp] Starting buffering for 0e60fa2d-c1b2-43f3-848f-589e858bad64:7a96b337-7b46-4905-b1d0-58202b7a42f7
+[I 2022-06-15 13:25:13.308 ServerApp] Starting buffering for a40f0e36-5558-4563-a00c-921c3ec6aa8c:784041d2-875d-449c-8177-f9f43bbd6dd1
+[I 2022-06-15 13:25:13.309 ServerApp] Starting buffering for f6d2ed52-7440-4378-9ed5-d917f03e7f9b:f7b15685-5c03-4c1f-a0ee-81952351d014
+[I 2022-06-15 13:25:13.311 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:2aba6768-e914-4b5a-b78f-70bd8404eb0f
+[I 2022-06-15 13:25:17.113 ServerApp] 302 POST /login?next=%2Flab%2Ftree%2Fjupyter_notebooks%2Fpaper%2F3b.Precipitation_wassersteindistance.ipynb (::1) 3.88ms
+[I 2022-06-15 13:25:29.813 LabApp] Build is up to date
+[I 2022-06-15 13:28:11.164 ServerApp] Kernel started: cc1738a4-3c59-4610-8276-f69405664edf
+[I 2022-06-15 13:28:20.829 ServerApp] Starting buffering for cc1738a4-3c59-4610-8276-f69405664edf:796a3325-4f1f-4a73-9e6f-88bc538b4843
+[I 2022-06-15 17:18:46.262 ServerApp] Starting buffering for 0e60fa2d-c1b2-43f3-848f-589e858bad64:1408a0d0-9afc-483d-870d-e22d38123e8d
+[I 2022-06-15 17:18:46.264 ServerApp] Starting buffering for cc1738a4-3c59-4610-8276-f69405664edf:80cdb2db-f293-4f7e-ab67-1159cf7cf22f
+[I 2022-06-15 17:18:46.267 ServerApp] Starting buffering for f6d2ed52-7440-4378-9ed5-d917f03e7f9b:56ccef23-d2ed-40e8-b7a1-bb1053d5638c
+[I 2022-06-15 17:18:46.268 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:9a8b0fb8-8e91-443c-94cc-8508ef2d6e62
+[I 2022-06-15 17:18:46.269 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:59b9b8bf-6d21-4da7-9117-505513c66211
+[I 2022-06-15 17:18:46.270 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:9021d65e-4089-4742-be79-23eb8290ae69
+[I 2022-06-15 17:18:46.271 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:3249989b-623a-41e9-823b-5d514de28929
+[I 2022-06-15 17:18:46.272 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:867ab904-271a-4925-b566-aecf01e0dd1c
+[I 2022-06-15 17:18:46.273 ServerApp] Starting buffering for d0b5d8f6-b210-4d9d-928b-72ece71e7dd2:c0127d8d-7475-4198-a7f4-fb031eb91257
+[I 2022-06-15 17:18:46.274 ServerApp] Starting buffering for a40f0e36-5558-4563-a00c-921c3ec6aa8c:334704a4-a40f-4daa-a871-03d24ce489c5
+[I 2022-06-15 17:18:46.324 ServerApp] Restoring connection for cc1738a4-3c59-4610-8276-f69405664edf:80cdb2db-f293-4f7e-ab67-1159cf7cf22f
+[I 2022-06-15 17:18:46.389 ServerApp] Restoring connection for 0e60fa2d-c1b2-43f3-848f-589e858bad64:1408a0d0-9afc-483d-870d-e22d38123e8d
+[I 2022-06-15 17:18:46.450 ServerApp] Restoring connection for d0b5d8f6-b210-4d9d-928b-72ece71e7dd2:c0127d8d-7475-4198-a7f4-fb031eb91257
+[I 2022-06-15 17:18:46.542 ServerApp] Restoring connection for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:867ab904-271a-4925-b566-aecf01e0dd1c
+[I 2022-06-15 17:18:46.691 ServerApp] Restoring connection for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:9021d65e-4089-4742-be79-23eb8290ae69
+[I 2022-06-15 17:18:46.694 ServerApp] Restoring connection for 406b89bf-6704-4f5c-81a6-a49361f6aafd:59b9b8bf-6d21-4da7-9117-505513c66211
+[I 2022-06-15 17:18:46.769 ServerApp] Restoring connection for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:9a8b0fb8-8e91-443c-94cc-8508ef2d6e62
+[I 2022-06-15 17:18:46.800 ServerApp] Restoring connection for f6d2ed52-7440-4378-9ed5-d917f03e7f9b:56ccef23-d2ed-40e8-b7a1-bb1053d5638c
+[I 2022-06-15 17:18:46.851 ServerApp] Restoring connection for 6d665d7c-f556-4438-a1f9-d614a2533813:3249989b-623a-41e9-823b-5d514de28929
+[I 2022-06-15 17:18:46.863 ServerApp] Restoring connection for a40f0e36-5558-4563-a00c-921c3ec6aa8c:334704a4-a40f-4daa-a871-03d24ce489c5
+[W 2022-06-15 17:20:16.327 ServerApp] WebSocket ping timeout after 90002 ms.
+[W 2022-06-15 17:20:16.390 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-15 17:20:16.451 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-15 17:20:16.543 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2022-06-15 17:20:16.692 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2022-06-15 17:20:16.695 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-15 17:20:16.771 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2022-06-15 17:20:16.802 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2022-06-15 17:20:16.852 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-15 17:20:16.864 ServerApp] WebSocket ping timeout after 90000 ms.
+[I 2022-06-15 17:20:21.331 ServerApp] Starting buffering for cc1738a4-3c59-4610-8276-f69405664edf:80cdb2db-f293-4f7e-ab67-1159cf7cf22f
+[I 2022-06-15 17:20:21.392 ServerApp] Starting buffering for 0e60fa2d-c1b2-43f3-848f-589e858bad64:1408a0d0-9afc-483d-870d-e22d38123e8d
+[I 2022-06-15 17:20:21.454 ServerApp] Starting buffering for d0b5d8f6-b210-4d9d-928b-72ece71e7dd2:c0127d8d-7475-4198-a7f4-fb031eb91257
+[I 2022-06-15 17:20:21.545 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:867ab904-271a-4925-b566-aecf01e0dd1c
+[I 2022-06-15 17:20:21.695 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:9021d65e-4089-4742-be79-23eb8290ae69
+[I 2022-06-15 17:20:21.696 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:59b9b8bf-6d21-4da7-9117-505513c66211
+[I 2022-06-15 17:20:21.773 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:9a8b0fb8-8e91-443c-94cc-8508ef2d6e62
+[I 2022-06-15 17:20:21.804 ServerApp] Starting buffering for f6d2ed52-7440-4378-9ed5-d917f03e7f9b:56ccef23-d2ed-40e8-b7a1-bb1053d5638c
+[I 2022-06-15 17:20:21.853 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:3249989b-623a-41e9-823b-5d514de28929
+[I 2022-06-15 17:20:21.866 ServerApp] Starting buffering for a40f0e36-5558-4563-a00c-921c3ec6aa8c:334704a4-a40f-4daa-a871-03d24ce489c5
+[I 2022-06-16 09:22:25.047 ServerApp] Restoring connection for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:9a8b0fb8-8e91-443c-94cc-8508ef2d6e62
+[I 2022-06-16 09:22:25.855 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:9a8b0fb8-8e91-443c-94cc-8508ef2d6e62
+[I 2022-06-16 09:22:35.465 LabApp] Build is up to date
+[I 2022-06-16 09:22:53.775 ServerApp] Starting buffering for cc1738a4-3c59-4610-8276-f69405664edf:e0dd0229-6999-4e57-8a70-5263d8ed9391
+[I 2022-06-16 09:24:40.280 ServerApp] Saving file at /jupyter_notebooks/5.Timeseries_MixedPrecision.ipynb
+[I 2022-06-16 09:26:40.871 ServerApp] Saving file at /jupyter_notebooks/5.Timeseries_MixedPrecision.ipynb
+[I 2022-06-16 09:28:41.457 ServerApp] Saving file at /jupyter_notebooks/5.Timeseries_MixedPrecision.ipynb
+[I 2022-06-16 10:56:42.516 ServerApp] Starting buffering for d0b5d8f6-b210-4d9d-928b-72ece71e7dd2:56e138fa-45fe-444f-b615-1ee94056f834
+[I 2022-06-16 10:56:42.518 ServerApp] Starting buffering for a40f0e36-5558-4563-a00c-921c3ec6aa8c:9fc40253-6954-4c4d-99e0-88c756699a07
+[I 2022-06-16 10:56:42.519 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:e30ed1b1-6cd4-483f-afef-7796adc00111
+[I 2022-06-16 10:56:42.520 ServerApp] Starting buffering for f6d2ed52-7440-4378-9ed5-d917f03e7f9b:ed4b5299-39f8-4c8b-89a4-385b1175c8c8
+[I 2022-06-16 10:56:42.521 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:7fc14303-23cd-49ab-9102-3ad6c38b0e8c
+[I 2022-06-16 10:56:42.522 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:d3a63227-d5fd-41cd-870c-ffa538cbf9a3
+[I 2022-06-16 10:56:42.522 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:21fef3fa-e318-4166-8d1f-9d38a7af2b16
+[I 2022-06-16 10:56:42.523 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:53e106b0-accf-4dc3-94dd-e79c78e05e9c
+[I 2022-06-16 10:56:42.524 ServerApp] Starting buffering for 0e60fa2d-c1b2-43f3-848f-589e858bad64:728264ae-4721-4c46-aa08-a6b454e29059
+[I 2022-06-16 10:56:42.625 ServerApp] Restoring connection for a40f0e36-5558-4563-a00c-921c3ec6aa8c:9fc40253-6954-4c4d-99e0-88c756699a07
+[I 2022-06-16 10:56:42.716 ServerApp] Restoring connection for d0b5d8f6-b210-4d9d-928b-72ece71e7dd2:56e138fa-45fe-444f-b615-1ee94056f834
+[I 2022-06-16 10:56:42.780 ServerApp] Restoring connection for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:e30ed1b1-6cd4-483f-afef-7796adc00111
+[I 2022-06-16 10:56:42.881 ServerApp] Restoring connection for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:21fef3fa-e318-4166-8d1f-9d38a7af2b16
+[I 2022-06-16 10:56:42.929 ServerApp] Restoring connection for 6d665d7c-f556-4438-a1f9-d614a2533813:53e106b0-accf-4dc3-94dd-e79c78e05e9c
+[I 2022-06-16 10:56:42.934 ServerApp] Restoring connection for 406b89bf-6704-4f5c-81a6-a49361f6aafd:d3a63227-d5fd-41cd-870c-ffa538cbf9a3
+[I 2022-06-16 10:56:42.992 ServerApp] Restoring connection for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:7fc14303-23cd-49ab-9102-3ad6c38b0e8c
+[I 2022-06-16 10:56:43.002 ServerApp] Restoring connection for f6d2ed52-7440-4378-9ed5-d917f03e7f9b:ed4b5299-39f8-4c8b-89a4-385b1175c8c8
+[I 2022-06-16 10:56:43.062 ServerApp] Restoring connection for 0e60fa2d-c1b2-43f3-848f-589e858bad64:728264ae-4721-4c46-aa08-a6b454e29059
+[W 2022-06-16 10:58:12.627 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2022-06-16 10:58:12.717 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2022-06-16 10:58:12.781 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-16 10:58:12.882 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-16 10:58:12.929 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-16 10:58:12.934 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-16 10:58:12.993 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-16 10:58:13.004 ServerApp] WebSocket ping timeout after 90002 ms.
+[W 2022-06-16 10:58:13.062 ServerApp] WebSocket ping timeout after 90000 ms.
+[I 2022-06-16 10:58:17.629 ServerApp] Starting buffering for a40f0e36-5558-4563-a00c-921c3ec6aa8c:9fc40253-6954-4c4d-99e0-88c756699a07
+[I 2022-06-16 10:58:17.718 ServerApp] Starting buffering for d0b5d8f6-b210-4d9d-928b-72ece71e7dd2:56e138fa-45fe-444f-b615-1ee94056f834
+[I 2022-06-16 10:58:17.783 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:e30ed1b1-6cd4-483f-afef-7796adc00111
+[I 2022-06-16 10:58:17.884 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:21fef3fa-e318-4166-8d1f-9d38a7af2b16
+[I 2022-06-16 10:58:17.931 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:53e106b0-accf-4dc3-94dd-e79c78e05e9c
+[I 2022-06-16 10:58:17.937 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:d3a63227-d5fd-41cd-870c-ffa538cbf9a3
+[I 2022-06-16 10:58:17.994 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:7fc14303-23cd-49ab-9102-3ad6c38b0e8c
+[I 2022-06-16 10:58:18.006 ServerApp] Starting buffering for f6d2ed52-7440-4378-9ed5-d917f03e7f9b:ed4b5299-39f8-4c8b-89a4-385b1175c8c8
+[I 2022-06-16 10:58:18.064 ServerApp] Starting buffering for 0e60fa2d-c1b2-43f3-848f-589e858bad64:728264ae-4721-4c46-aa08-a6b454e29059
+[I 2022-06-18 09:31:16.387 ServerApp] 302 GET / (::1) 2.59ms
+[I 2022-06-18 09:31:16.458 LabApp] 302 GET /lab? (::1) 2.41ms
+[I 2022-06-18 09:31:20.596 ServerApp] 302 POST /login?next=%2Flab%3F (::1) 2.97ms
+[I 2022-06-18 09:31:28.954 LabApp] Build is up to date
+[I 2022-06-18 09:33:37.675 ServerApp] Saving file at /jupyter_notebooks/5.Timeseries_MixedPrecision.ipynb
+[I 2022-06-18 09:35:39.352 ServerApp] Saving file at /jupyter_notebooks/5.Timeseries_MixedPrecision.ipynb
+[I 2022-06-18 09:37:40.138 ServerApp] Saving file at /jupyter_notebooks/5.Timeseries_MixedPrecision.ipynb
+[I 2022-06-18 09:40:10.080 ServerApp] Kernel started: 632c8517-0add-4069-881a-833825dba06c
+[I 2022-06-18 09:40:20.859 ServerApp] Starting buffering for 632c8517-0add-4069-881a-833825dba06c:1ffcf200-4b33-4752-a9a9-d88c88d8f067
+[W 2022-06-18 09:40:21.974 ServerApp] Notebook jupyter_notebooks/2.1 Coupling delta.ipynb is not trusted
+[I 2022-06-18 09:40:25.249 ServerApp] Kernel started: f208c240-0956-4e92-a289-5514a7571d83
+[W 2022-06-18 09:42:26.448 ServerApp] Notebook jupyter_notebooks/2.2 agcm delta.ipynb is not trusted
+[I 2022-06-18 09:42:28.219 ServerApp] Kernel started: bb338f4e-eb68-40b5-ae19-e5a44f06b638
+[I 2022-06-18 09:43:04.294 ServerApp] Starting buffering for a40f0e36-5558-4563-a00c-921c3ec6aa8c:58cd6e6d-2aeb-493c-8032-2b466727fa15
+[I 2022-06-18 09:43:05.292 ServerApp] Starting buffering for f6d2ed52-7440-4378-9ed5-d917f03e7f9b:6fa01a77-b8cb-4c49-be10-6c2c25b1d2b4
+[I 2022-06-18 09:43:06.287 ServerApp] Starting buffering for 0e60fa2d-c1b2-43f3-848f-589e858bad64:e7f06ae7-b369-45eb-938d-a76352375516
+[I 2022-06-18 09:43:07.116 ServerApp] Starting buffering for d0b5d8f6-b210-4d9d-928b-72ece71e7dd2:4f759f42-0eec-44c8-81be-637bac991b22
+[I 2022-06-18 09:43:09.808 ServerApp] Starting buffering for f208c240-0956-4e92-a289-5514a7571d83:ac1e526e-7d3a-4b39-8985-201a268c9d62
+[I 2022-06-18 09:54:56.434 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:55f06dc3-da17-458d-893c-ad149bfe5764
+[I 2022-06-18 09:54:56.437 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:bb670f74-217a-4a3e-8ac7-57f2fdfe4955
+[I 2022-06-18 09:54:56.438 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:9d010eb8-e98d-460d-bf93-9a675a6914d7
+[I 2022-06-18 09:54:56.440 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:8612683e-ca56-4d5e-baa0-1e525d8e048e
+[I 2022-06-18 09:54:56.441 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:a5efaa72-f547-478e-9ebd-ce29e9ccafe2
+[I 2022-06-18 09:54:56.442 ServerApp] Starting buffering for bb338f4e-eb68-40b5-ae19-e5a44f06b638:bf3be800-84da-450b-ae82-e46fb37e7699
+[I 2022-06-21 14:09:40.871 ServerApp] Restoring connection for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:55f06dc3-da17-458d-893c-ad149bfe5764
+[I 2022-06-21 14:09:41.837 ServerApp] Restoring connection for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:bb670f74-217a-4a3e-8ac7-57f2fdfe4955
+[I 2022-06-21 14:09:44.965 ServerApp] 302 GET / (::1) 1.21ms
+[I 2022-06-21 14:09:55.421 ServerApp] Restoring connection for 6d665d7c-f556-4438-a1f9-d614a2533813:a5efaa72-f547-478e-9ebd-ce29e9ccafe2
+[I 2022-06-21 14:09:55.629 ServerApp] Restoring connection for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:8612683e-ca56-4d5e-baa0-1e525d8e048e
+[I 2022-06-21 14:09:59.809 ServerApp] Restoring connection for 406b89bf-6704-4f5c-81a6-a49361f6aafd:9d010eb8-e98d-460d-bf93-9a675a6914d7
+[I 2022-06-21 14:10:02.071 ServerApp] Restoring connection for bb338f4e-eb68-40b5-ae19-e5a44f06b638:bf3be800-84da-450b-ae82-e46fb37e7699
+[I 2022-06-21 14:10:03.487 LabApp] Build is up to date
+[I 2022-06-21 14:32:04.388 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:a5efaa72-f547-478e-9ebd-ce29e9ccafe2
+[I 2022-06-21 14:32:04.389 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:8612683e-ca56-4d5e-baa0-1e525d8e048e
+[I 2022-06-21 14:32:04.390 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:55f06dc3-da17-458d-893c-ad149bfe5764
+[I 2022-06-21 14:32:04.390 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:bb670f74-217a-4a3e-8ac7-57f2fdfe4955
+[I 2022-06-21 14:32:04.391 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:9d010eb8-e98d-460d-bf93-9a675a6914d7
+[I 2022-06-21 14:32:04.392 ServerApp] Starting buffering for bb338f4e-eb68-40b5-ae19-e5a44f06b638:bf3be800-84da-450b-ae82-e46fb37e7699
+[I 2022-06-21 14:32:04.796 ServerApp] Restoring connection for 6d665d7c-f556-4438-a1f9-d614a2533813:a5efaa72-f547-478e-9ebd-ce29e9ccafe2
+[W 2022-06-21 14:33:34.606 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2022-06-21 14:33:34.607 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-21 14:33:34.793 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-21 14:33:34.796 ServerApp] WebSocket ping timeout after 90000 ms.
+[I 2022-06-21 14:33:39.609 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:b906a48e-1d30-4b58-bfa2-a7fbdce54635
+[I 2022-06-21 14:33:39.795 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:8612683e-ca56-4d5e-baa0-1e525d8e048e
+[I 2022-06-21 14:33:39.798 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:a5efaa72-f547-478e-9ebd-ce29e9ccafe2
+[I 2022-06-21 18:16:02.299 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:eb792037-6df3-44c8-a452-ed11222217cb
+[I 2022-06-21 18:16:06.797 LabApp] Build is up to date
+[I 2022-06-21 18:16:13.193 ServerApp] Restoring connection for bb338f4e-eb68-40b5-ae19-e5a44f06b638:bf3be800-84da-450b-ae82-e46fb37e7699
+[I 2022-06-21 18:16:13.853 ServerApp] Restoring connection for 6d665d7c-f556-4438-a1f9-d614a2533813:a5efaa72-f547-478e-9ebd-ce29e9ccafe2
+[I 2022-06-21 18:16:14.881 ServerApp] Restoring connection for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:bb670f74-217a-4a3e-8ac7-57f2fdfe4955
+[I 2022-06-21 18:16:21.845 ServerApp] Restoring connection for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:55f06dc3-da17-458d-893c-ad149bfe5764
+[W 2022-06-21 18:18:06.457 ServerApp] Notebook jupyter_notebooks/Fig1_temperature_timeseries.ipynb is not trusted
+[I 2022-06-21 18:18:08.602 ServerApp] Copying jupyter_notebooks/5.Timeseries_MixedPrecision.ipynb to /jupyter_notebooks
+[I 2022-06-21 18:18:10.116 ServerApp] Kernel started: 7b13ee35-c54b-45a9-ae6e-7fbd3ac658ad
+[I 2022-06-21 18:18:40.484 ServerApp] Starting buffering for 7b13ee35-c54b-45a9-ae6e-7fbd3ac658ad:2f300909-0fbc-49d9-ba23-055948d90023
+[I 2022-06-21 18:18:42.048 ServerApp] Kernel started: fee1b675-4fa9-4c00-88a8-fe39711e1179
+[I 2022-06-21 18:20:42.760 ServerApp] Saving file at /jupyter_notebooks/paper/4.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:22:43.885 ServerApp] Saving file at /jupyter_notebooks/paper/4.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:24:44.799 ServerApp] Saving file at /jupyter_notebooks/paper/4.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:26:49.139 ServerApp] Saving file at /jupyter_notebooks/paper/4.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:28:50.130 ServerApp] Saving file at /jupyter_notebooks/paper/4.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:30:52.174 ServerApp] Saving file at /jupyter_notebooks/paper/4.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:32:53.343 ServerApp] Saving file at /jupyter_notebooks/paper/4.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:34:54.504 ServerApp] Saving file at /jupyter_notebooks/paper/4.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:36:55.466 ServerApp] Saving file at /jupyter_notebooks/paper/4.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:38:54.574 ServerApp] Saving file at /jupyter_notebooks/paper/4.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:39:16.719 ServerApp] Copying jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb to /jupyter_notebooks/paper
+[I 2022-06-21 18:39:32.860 ServerApp] Kernel started: 804de4cd-5587-4461-b1d5-38b6e6174f9c
+[I 2022-06-21 18:41:32.806 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-21 18:43:33.525 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-21 18:44:17.437 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-21 18:46:18.262 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-21 18:52:57.230 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:54:57.809 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-21 18:56:18.982 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-21 18:58:19.869 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-21 19:04:20.377 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-21 19:06:20.997 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-21 19:07:16.137 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-21 19:07:18.478 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:9d010eb8-e98d-460d-bf93-9a675a6914d7
+[I 2022-06-21 19:07:18.479 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:d14ad988-2712-404b-8abe-a94bdd606967
+[I 2022-06-21 19:07:18.480 ServerApp] Starting buffering for 804de4cd-5587-4461-b1d5-38b6e6174f9c:53eb1545-396d-4e6d-ac53-d077be43498e
+[I 2022-06-21 19:07:18.481 ServerApp] Starting buffering for bb338f4e-eb68-40b5-ae19-e5a44f06b638:bf3be800-84da-450b-ae82-e46fb37e7699
+[I 2022-06-21 19:07:18.482 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:a5efaa72-f547-478e-9ebd-ce29e9ccafe2
+[I 2022-06-21 19:07:18.483 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:bb670f74-217a-4a3e-8ac7-57f2fdfe4955
+[I 2022-06-21 19:07:18.484 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:55f06dc3-da17-458d-893c-ad149bfe5764
+[I 2022-06-21 19:07:18.485 ServerApp] Starting buffering for fee1b675-4fa9-4c00-88a8-fe39711e1179:429b141f-6423-48d5-8ac8-a8057035b485
+[I 2022-06-21 19:07:18.761 ServerApp] Restoring connection for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:d14ad988-2712-404b-8abe-a94bdd606967
+[I 2022-06-21 19:07:18.934 ServerApp] Restoring connection for 804de4cd-5587-4461-b1d5-38b6e6174f9c:53eb1545-396d-4e6d-ac53-d077be43498e
+[W 2022-06-21 19:08:48.595 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2022-06-21 19:08:48.769 ServerApp] WebSocket ping timeout after 90007 ms.
+[W 2022-06-21 19:08:48.934 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-21 19:08:52.756 ServerApp] zmq message arrived on closed channel
+[I 2022-06-21 19:08:53.598 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:1b57aae1-de3a-4841-9d50-d9533a550418
+[I 2022-06-21 19:08:53.774 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:d14ad988-2712-404b-8abe-a94bdd606967
+[I 2022-06-21 19:08:53.937 ServerApp] Starting buffering for 804de4cd-5587-4461-b1d5-38b6e6174f9c:53eb1545-396d-4e6d-ac53-d077be43498e
+[I 2022-06-22 18:14:32.875 ServerApp] Restoring connection for fee1b675-4fa9-4c00-88a8-fe39711e1179:429b141f-6423-48d5-8ac8-a8057035b485
+[I 2022-06-22 18:14:35.818 ServerApp] Restoring connection for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:d14ad988-2712-404b-8abe-a94bdd606967
+[I 2022-06-22 18:14:37.734 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:d14ad988-2712-404b-8abe-a94bdd606967
+[I 2022-06-22 18:14:37.736 ServerApp] Starting buffering for fee1b675-4fa9-4c00-88a8-fe39711e1179:429b141f-6423-48d5-8ac8-a8057035b485
+[I 2022-06-22 18:14:40.679 ServerApp] Restoring connection for bb338f4e-eb68-40b5-ae19-e5a44f06b638:bf3be800-84da-450b-ae82-e46fb37e7699
+[I 2022-06-22 18:14:45.067 LabApp] Build is up to date
+[I 2022-06-22 18:14:53.193 ServerApp] Discarding 21 buffered messages for 804de4cd-5587-4461-b1d5-38b6e6174f9c:53eb1545-396d-4e6d-ac53-d077be43498e
+[I 2022-06-22 18:14:54.863 ServerApp] Restoring connection for 6d665d7c-f556-4438-a1f9-d614a2533813:a5efaa72-f547-478e-9ebd-ce29e9ccafe2
+[I 2022-06-22 18:14:55.915 ServerApp] Restoring connection for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:bb670f74-217a-4a3e-8ac7-57f2fdfe4955
+[I 2022-06-22 18:14:56.867 ServerApp] Restoring connection for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:55f06dc3-da17-458d-893c-ad149bfe5764
+[I 2022-06-22 21:56:03.575 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:55f06dc3-da17-458d-893c-ad149bfe5764
+[I 2022-06-22 21:56:03.583 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:bb670f74-217a-4a3e-8ac7-57f2fdfe4955
+[I 2022-06-22 21:56:03.619 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:a5efaa72-f547-478e-9ebd-ce29e9ccafe2
+[I 2022-06-22 21:56:03.625 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:73404fee-9b1e-45f5-96a9-764281bec827
+[I 2022-06-22 21:56:03.628 ServerApp] Starting buffering for fee1b675-4fa9-4c00-88a8-fe39711e1179:d0cb6ffc-539f-4f83-89f4-e1c702637a8c
+[I 2022-06-22 21:56:03.629 ServerApp] Starting buffering for 804de4cd-5587-4461-b1d5-38b6e6174f9c:cad5982b-4f69-4731-8b96-a8ce4d1eb1cf
+[I 2022-06-22 21:56:03.630 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:8612683e-ca56-4d5e-baa0-1e525d8e048e
+[I 2022-06-22 21:56:03.632 ServerApp] Starting buffering for bb338f4e-eb68-40b5-ae19-e5a44f06b638:bf3be800-84da-450b-ae82-e46fb37e7699
+[I 2022-06-22 21:56:05.488 ServerApp] Restoring connection for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:55f06dc3-da17-458d-893c-ad149bfe5764
+[W 2022-06-22 21:57:35.489 ServerApp] WebSocket ping timeout after 90000 ms.
+[I 2022-06-22 21:57:40.492 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:55f06dc3-da17-458d-893c-ad149bfe5764
+[I 2022-06-23 06:43:32.005 ServerApp] Restoring connection for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:bb670f74-217a-4a3e-8ac7-57f2fdfe4955
+[I 2022-06-23 06:43:32.240 ServerApp] Restoring connection for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:55f06dc3-da17-458d-893c-ad149bfe5764
+[I 2022-06-23 06:43:34.228 ServerApp] Restoring connection for 804de4cd-5587-4461-b1d5-38b6e6174f9c:cad5982b-4f69-4731-8b96-a8ce4d1eb1cf
+[I 2022-06-23 06:43:36.977 ServerApp] Restoring connection for fee1b675-4fa9-4c00-88a8-fe39711e1179:d0cb6ffc-539f-4f83-89f4-e1c702637a8c
+[I 2022-06-23 06:43:41.166 ServerApp] Restoring connection for 406b89bf-6704-4f5c-81a6-a49361f6aafd:73404fee-9b1e-45f5-96a9-764281bec827
+[I 2022-06-23 06:43:43.001 ServerApp] Restoring connection for 6d665d7c-f556-4438-a1f9-d614a2533813:a5efaa72-f547-478e-9ebd-ce29e9ccafe2
+[I 2022-06-23 06:43:52.050 ServerApp] Restoring connection for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:8612683e-ca56-4d5e-baa0-1e525d8e048e
+[I 2022-06-23 06:43:54.034 ServerApp] Restoring connection for bb338f4e-eb68-40b5-ae19-e5a44f06b638:bf3be800-84da-450b-ae82-e46fb37e7699
+[I 2022-06-23 06:44:05.364 ServerApp] Starting buffering for 804de4cd-5587-4461-b1d5-38b6e6174f9c:cad5982b-4f69-4731-8b96-a8ce4d1eb1cf
+[I 2022-06-23 06:44:05.365 ServerApp] Starting buffering for fee1b675-4fa9-4c00-88a8-fe39711e1179:d0cb6ffc-539f-4f83-89f4-e1c702637a8c
+[I 2022-06-23 06:44:05.817 ServerApp] Starting buffering for bb338f4e-eb68-40b5-ae19-e5a44f06b638:bf3be800-84da-450b-ae82-e46fb37e7699
+[I 2022-06-23 06:44:05.819 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:8612683e-ca56-4d5e-baa0-1e525d8e048e
+[I 2022-06-23 06:44:05.820 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:9d010eb8-e98d-460d-bf93-9a675a6914d7
+[I 2022-06-23 06:44:05.821 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:a5efaa72-f547-478e-9ebd-ce29e9ccafe2
+[I 2022-06-23 06:44:05.823 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:bb670f74-217a-4a3e-8ac7-57f2fdfe4955
+[I 2022-06-23 06:44:05.824 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:55f06dc3-da17-458d-893c-ad149bfe5764
+[I 2022-06-23 06:46:10.918 ServerApp] 302 GET / (::1) 1.84ms
+[I 2022-06-23 06:46:42.505 LabApp] Build is up to date
+[W 2022-06-23 06:47:02.770 ServerApp] Notebook jupyter_notebooks/2.2 agcm delta.ipynb is not trusted
+[I 2022-06-23 06:51:36.327 ServerApp] Starting buffering for bb338f4e-eb68-40b5-ae19-e5a44f06b638:ba29c4d1-d6be-4f6f-b12d-7d023f540909
+[I 2022-06-23 06:51:55.191 ServerApp] Starting buffering for 3ba76382-4e4c-4cb7-8b24-b339af6dbd50:eb12370a-d876-4303-a3c7-e16e3f7a5c8f
+[I 2022-06-23 06:51:56.386 ServerApp] Starting buffering for 9aac199e-45ec-4a45-9eb8-e3bf34a8a587:3ec8592a-17ce-466c-aab8-1fe63134bc74
+[I 2022-06-23 06:51:56.828 ServerApp] Starting buffering for 6d665d7c-f556-4438-a1f9-d614a2533813:597c831d-2fa9-4b3c-85b2-ef05a5a70fb3
+[I 2022-06-23 06:51:57.204 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:08235305-2f37-4051-bf78-73444658e642
+[I 2022-06-23 06:51:57.583 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:6ba6b4ed-986e-416d-b540-8194fb11c2c2
+[I 2022-06-23 06:53:54.942 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-23 06:54:53.115 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-23 06:56:54.407 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-23 06:58:55.763 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-23 07:00:57.944 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-23 07:02:59.495 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-23 07:05:01.592 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-23 07:07:02.508 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-23 07:07:57.628 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-23 07:09:58.541 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-23 07:11:59.389 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-23 07:13:49.825 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:1d935506-69e7-4dea-8d67-650ad6f05849
+[I 2022-06-23 07:13:49.827 ServerApp] Starting buffering for 804de4cd-5587-4461-b1d5-38b6e6174f9c:a57282e0-1ab0-4feb-aab3-fb46c153ca84
+[I 2022-06-23 07:13:49.828 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:800dfb44-9445-40fd-b790-371a35a4f076
+[I 2022-06-23 07:13:49.829 ServerApp] Starting buffering for fee1b675-4fa9-4c00-88a8-fe39711e1179:2fa62838-ad00-4938-9590-361ac302659b
+[I 2022-06-24 07:00:30.514 ServerApp] Restoring connection for 406b89bf-6704-4f5c-81a6-a49361f6aafd:1d935506-69e7-4dea-8d67-650ad6f05849
+[I 2022-06-24 07:00:34.355 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:1d935506-69e7-4dea-8d67-650ad6f05849
+[I 2022-06-24 07:00:46.629 LabApp] Build is up to date
+[I 2022-06-24 07:03:28.740 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-24 07:05:30.199 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 07:05:53.713 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 07:07:54.429 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 07:09:55.211 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 07:11:56.144 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 07:12:48.470 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 07:14:49.380 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 07:27:30.405 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-24 07:29:31.719 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-24 07:33:32.351 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-24 07:35:33.812 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-24 07:37:35.604 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-24 07:38:53.509 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 07:40:54.202 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 07:42:54.904 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 07:43:36.833 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
