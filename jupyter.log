@@ -2162,3 +2162,68 @@
 [I 2022-06-24 07:40:54.202 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
 [I 2022-06-24 07:42:54.904 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
 [I 2022-06-24 07:43:36.833 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-24 07:44:55.555 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 07:46:56.345 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 08:12:12.663 ServerApp] Saving file at /jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb
+[I 2022-06-24 08:16:14.416 ServerApp] Saving file at /jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb
+[I 2022-06-24 09:49:03.538 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:eec402a3-75ce-479d-b233-acebb1f6b262
+[I 2022-06-24 09:49:03.540 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:de57eca8-c4ac-4290-9a91-8083ff3064bd
+[I 2022-06-24 09:49:03.549 ServerApp] Starting buffering for fee1b675-4fa9-4c00-88a8-fe39711e1179:dd2e99b5-2ce6-41e3-8a51-a3f5ba1d59b4
+[I 2022-06-24 09:49:03.550 ServerApp] Starting buffering for 804de4cd-5587-4461-b1d5-38b6e6174f9c:6d720eca-8f2c-495e-aabd-2ff16a3cd5e4
+[I 2022-06-24 09:49:03.747 ServerApp] Restoring connection for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:de57eca8-c4ac-4290-9a91-8083ff3064bd
+[I 2022-06-24 09:49:04.045 ServerApp] Restoring connection for 406b89bf-6704-4f5c-81a6-a49361f6aafd:eec402a3-75ce-479d-b233-acebb1f6b262
+[I 2022-06-24 09:49:04.107 ServerApp] Restoring connection for fee1b675-4fa9-4c00-88a8-fe39711e1179:dd2e99b5-2ce6-41e3-8a51-a3f5ba1d59b4
+[I 2022-06-24 09:49:04.336 ServerApp] Restoring connection for 804de4cd-5587-4461-b1d5-38b6e6174f9c:6d720eca-8f2c-495e-aabd-2ff16a3cd5e4
+[W 2022-06-24 09:50:33.749 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2022-06-24 09:50:34.046 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2022-06-24 09:50:34.108 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2022-06-24 09:50:34.337 ServerApp] WebSocket ping timeout after 90001 ms.
+[I 2022-06-24 09:50:38.752 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:de57eca8-c4ac-4290-9a91-8083ff3064bd
+[I 2022-06-24 09:50:39.048 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:eec402a3-75ce-479d-b233-acebb1f6b262
+[I 2022-06-24 09:50:39.109 ServerApp] Starting buffering for fee1b675-4fa9-4c00-88a8-fe39711e1179:dd2e99b5-2ce6-41e3-8a51-a3f5ba1d59b4
+[I 2022-06-24 09:50:39.339 ServerApp] Starting buffering for 804de4cd-5587-4461-b1d5-38b6e6174f9c:6d720eca-8f2c-495e-aabd-2ff16a3cd5e4
+[I 2022-06-27 11:44:24.681 ServerApp] 302 GET / (::1) 23.57ms
+[I 2022-06-27 11:44:24.721 LabApp] 302 GET /lab? (::1) 2.21ms
+[I 2022-06-27 11:44:28.307 ServerApp] 302 POST /login?next=%2Flab%3F (::1) 9.43ms
+[I 2022-06-27 11:44:39.277 LabApp] Build is up to date
+[I 2022-06-27 11:44:51.744 ServerApp] Starting buffering for 804de4cd-5587-4461-b1d5-38b6e6174f9c:539f33e9-ac77-41e7-93c2-c330c686bb46
+[I 2022-06-27 11:44:52.251 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:fcf4c870-441d-41cf-a56b-2b35a980c1a3
+[I 2022-06-27 11:44:52.652 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:0d737390-5b86-4280-991e-947d6fc93b8b
+[I 2022-06-27 11:46:46.762 ServerApp] Copying jupyter_notebooks/paper/4a.MixedPrecision_temperature.ipynb to /jupyter_notebooks/paper
+[I 2022-06-27 11:47:21.932 ServerApp] Kernel started: 293ddc58-c2e7-44ff-9572-1e23677803b1
+[I 2022-06-27 11:49:22.248 ServerApp] Saving file at /jupyter_notebooks/paper/5.MixedPrecision_temperature_deepDive.ipynb
+[I 2022-06-27 11:51:23.625 ServerApp] Saving file at /jupyter_notebooks/paper/5.MixedPrecision_temperature_deepDive.ipynb
+[I 2022-06-27 11:53:24.926 ServerApp] Saving file at /jupyter_notebooks/paper/5.MixedPrecision_temperature_deepDive.ipynb
+[I 2022-06-27 11:55:26.224 ServerApp] Saving file at /jupyter_notebooks/paper/5.MixedPrecision_temperature_deepDive.ipynb
+[W 2022-06-27 11:55:31.138 ServerApp] delete /jupyter_notebooks/paper/data/deepdive_m5_temperature_timeseries_weighted_mixedprecision.pkl
+[W 2022-06-27 11:55:31.141 ServerApp] Skipping trash for /gf3/predict2/TIP020_KIMPSON_SPML4L/speedy-1/jupyter_notebooks/paper/data/deepdive_m5_temperature_timeseries_weighted_mixedprecision.pkl, on different device to home directory
+[I 2022-06-27 11:57:27.732 ServerApp] Saving file at /jupyter_notebooks/paper/5.MixedPrecision_temperature_deepDive.ipynb
+[I 2022-06-27 11:59:29.197 ServerApp] Saving file at /jupyter_notebooks/paper/5.MixedPrecision_temperature_deepDive.ipynb
+[I 2022-06-27 12:02:02.447 ServerApp] Copying jupyter_notebooks/paper/4b.MixedPrecision_precip.ipynb to /jupyter_notebooks/paper
+[I 2022-06-27 12:02:20.584 ServerApp] Kernel started: ffb6e7e9-41c1-4a84-889e-b28b2fb68fda
+[I 2022-06-27 12:04:20.638 ServerApp] Saving file at /jupyter_notebooks/paper/5b.MixedPrecision_precip_deepdive.ipynb
+[I 2022-06-27 12:06:21.951 ServerApp] Saving file at /jupyter_notebooks/paper/5b.MixedPrecision_precip_deepdive.ipynb
+[I 2022-06-27 12:08:23.090 ServerApp] Saving file at /jupyter_notebooks/paper/5b.MixedPrecision_precip_deepdive.ipynb
+[I 2022-06-27 12:10:23.826 ServerApp] Saving file at /jupyter_notebooks/paper/5b.MixedPrecision_precip_deepdive.ipynb
+[I 2022-06-27 12:12:24.768 ServerApp] Saving file at /jupyter_notebooks/paper/5b.MixedPrecision_precip_deepdive.ipynb
+[I 2022-06-27 12:14:25.360 ServerApp] Saving file at /jupyter_notebooks/paper/5b.MixedPrecision_precip_deepdive.ipynb
+[I 2022-06-27 12:51:21.699 ServerApp] Starting buffering for ffb6e7e9-41c1-4a84-889e-b28b2fb68fda:844cf05d-70de-4314-869a-31872a28f299
+[I 2022-06-27 12:51:21.702 ServerApp] Starting buffering for 406b89bf-6704-4f5c-81a6-a49361f6aafd:27b92326-9810-4d97-82f0-7e1d5089429c
+[I 2022-06-27 12:51:21.705 ServerApp] Starting buffering for 293ddc58-c2e7-44ff-9572-1e23677803b1:f9ab000d-4751-46d1-8982-8bfed3317069
+[I 2022-06-27 12:51:21.706 ServerApp] Starting buffering for fee1b675-4fa9-4c00-88a8-fe39711e1179:89b34556-bdad-4f7c-8d1d-161d873a28b1
+[I 2022-07-05 10:54:08.680 ServerApp] 302 GET / (::1) 2.09ms
+[W 2022-07-05 10:54:16.828 ServerApp] 404 GET /api/contents/notebooks/experiments/A6.ExploreModel.ipynb?content=0&1657014856736 (::1): No such file or directory: notebooks/experiments/A6.ExploreModel.ipynb
+[W 2022-07-05 10:54:16.829 ServerApp] No such file or directory: notebooks/experiments/A6.ExploreModel.ipynb
+[W 2022-07-05 10:54:16.830 ServerApp] 404 GET /api/contents/notebooks/experiments/A6.ExploreModel.ipynb?content=0&1657014856736 (::1) 4.83ms referer=http://localhost:8884/lab?
+[W 2022-07-05 10:54:16.834 ServerApp] 404 GET /api/contents/notebooks/experiments/A6.ExploreBenchmarkModel.ipynb?content=0&1657014856737 (::1): No such file or directory: notebooks/experiments/A6.ExploreBenchmarkModel.ipynb
+[W 2022-07-05 10:54:16.834 ServerApp] No such file or directory: notebooks/experiments/A6.ExploreBenchmarkModel.ipynb
+[W 2022-07-05 10:54:16.835 ServerApp] 404 GET /api/contents/notebooks/experiments/A6.ExploreBenchmarkModel.ipynb?content=0&1657014856737 (::1) 3.52ms referer=http://localhost:8884/lab?
+[I 2022-07-05 10:54:16.884 LabApp] Build is up to date
+[W 2022-07-05 10:54:17.495 ServerApp] 404 GET /api/contents/notebooks/experiments?1657014857437 (::1): No such file or directory: notebooks/experiments
+[W 2022-07-05 10:54:17.496 ServerApp] No such file or directory: notebooks/experiments
+[W 2022-07-05 10:54:17.497 ServerApp] 404 GET /api/contents/notebooks/experiments?1657014857437 (::1) 3.98ms referer=http://localhost:8884/lab?
+[I 2022-07-05 11:18:14.834 ServerApp] Starting buffering for 9d5c4c84-d95d-45be-9c9f-212a7cc53f5a:ebebf4b9-2c0b-4e09-b438-e60c87285c3b
+[I 2022-07-05 11:20:15.898 ServerApp] Saving file at /jupyter_notebooks/paper/2a.Temperature_globalmap.ipynb
+[I 2022-07-05 11:20:52.813 ServerApp] Saving file at /jupyter_notebooks/paper/2b.Precipitation_globalmap.ipynb
+[I 2022-07-05 11:20:54.078 ServerApp] Saving file at /jupyter_notebooks/paper/2b.Precipitation_globalmap.ipynb
+[I 2022-07-05 11:21:21.231 ServerApp] Saving file at /jupyter_notebooks/paper/2b.Precipitation_globalmap.ipynb
