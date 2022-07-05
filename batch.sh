@@ -438,8 +438,17 @@
 
 
 #100 year coupler runs
-nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m5     015 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m5.out &
-nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m6     016 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m6.out &
-nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m7     017 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m7.out &
-nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m8     018 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m8.out &
-nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m9     019 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m9.out &
+#nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m5     015 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m5.out &
+#nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m6     016 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m6.out &
+#nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m7     017 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m7.out &
+#nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m8     018 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m8.out &
+#nohup time ./run.sh speedyone100yr_L2_10_RNcpl_m9     019 2 SRoff10_coupler      100year4CO2 > output/speedyone100yr_L2_10_RNcpl_m9.out &
+
+
+
+#Mixed precision
+nohup time ./run.sh speedyone100yr_L2_10_RNagcm_m5      015 2 SRoff10_agcm         100year4CO2 > output/speedyone100yr_L2_10_RNagcm_m5.out &
+nohup time ./run.sh speedyone100yr_L2_10_RNfordate_m5   015 2 SRoff10_fordate      100year4CO2 > output/speedyone100yr_L2_10_RNfordate_m5.out &
+nohup time ./run.sh speedyone100yr_L2_10_RNinifluxes_m5 015 2 SRoff10_inifluxes    100year4CO2 > output/speedyone100yr_L2_10_RNinifluxes_m5.out &
+nohup time ./run.sh speedyone100yr_L2_10_RNstloop_m5    015 2 SRoff10_stloop       100year4CO2 > output/speedyone100yr_L2_10_RNstloop_m5.out &
+
